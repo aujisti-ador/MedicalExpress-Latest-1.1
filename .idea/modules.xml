@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MedicalExpress-Latest-4e5c30e6aaf15ed2f9bd1738489958dbdc33ee53.iml" filepath="$PROJECT_DIR$/MedicalExpress-Latest-4e5c30e6aaf15ed2f9bd1738489958dbdc33ee53.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

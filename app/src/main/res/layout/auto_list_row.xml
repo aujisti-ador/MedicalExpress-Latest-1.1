@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ddd"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Apollo Hospital"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:layout_margin="5dp"
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:id="@+id/autoCtxt"
+        android:padding="5dp"
+        />
+<View
+    android:layout_width="match_parent"
+    android:layout_height="2dp"
+    android:background="#000"
+    ></View>
+</LinearLayout>

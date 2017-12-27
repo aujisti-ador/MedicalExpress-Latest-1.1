@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/colorPrimary"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/PlaceName"
+            android:text="Place Name"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:layout_marginLeft="10dp"
+            android:textSize="17dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:id="@+id/vincity"
+            android:text="Place Address"
+            android:textStyle="bold"
+            android:textColor="#fff"
+            android:layout_below="@+id/PlaceName"
+            android:textSize="13dp"
+            />
+
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:layout_below="@id/vincity"
+        android:layout_marginBottom="3dp"
+        android:background="#000"/>
+
+</LinearLayout>

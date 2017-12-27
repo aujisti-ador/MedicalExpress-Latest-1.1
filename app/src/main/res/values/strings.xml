@@ -1,0 +1,4073 @@
+<resources>
+    <string name="app_name">MedicalExpress</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8872420019930849/9954850617</string>
+
+    <string-array name="h_name">
+        <item>United Hospital Limited</item>
+        <item>Labaid Cardiac Hospital,dhanmondi</item>
+        <item>Al-Helal Specialized Hospital Ltd</item>
+        <item>Bangladesh Institute of Research and Rehabilitation in Diabetes,Endocrine and Metabolic Disorders (BIRDEM)</item>
+        <item>Japan Bangladesh Friend Hospital</item>
+        <item>Apollo Hospital</item>
+        <item>Uttara Cresent Hospital</item>
+        <item>Central Hospital Ltd</item>
+        <item>S.P.R.C And Neurology Hospital</item>
+        <item>Islami Bank Hospital</item>
+        <item>Health and Hope Hospital</item>
+        <item>Advanced Eye Center</item>
+        <item>Ahmed Medical Center ( Deen Eye Care and Research Institue )</item>
+        <item>Ahsania Mission Cancer and General Hospital</item>
+        <item>Aichi Hospital</item>
+        <item>Al-Ahsraf General Hospital</item>
+        <item>Al-Arafa Clinic</item>
+        <item>Al-Baraka Hospital</item>
+        <item>Al-Madina General Hospital (Pvt.) Ltd.</item>
+        <item>Al-Markazul Islami Hospital</item>
+        <item>Al-Mohite General Hospital and Diagnostic Centre</item>
+        <item>Shahid Suhrawardy Hospital</item>
+        <item>Mirpur Adhunik Hospital</item>
+        <item>Al-Helal Hospital,senpara</item>
+        <item>Al Jebel-E-Nur Heart Ltd.</item>
+        <item>Al- Rajhi Hospital</item>
+        <item>Al-Biruni Hospital</item>
+        <item>Al-Fateh Medical Sevices (Pvt) Ltd.</item>
+        <item>Arogya Niketan Hospital Ltd.</item>
+        <item>Aysha Memorial Specialized Hospital</item>
+        <item>B.D.F. Hospital</item>
+        <item>Bangabandhu Shiekh Mujib Medical University</item>
+        <item>Bangal Nursing Home Ltd.</item>
+        <item>National Heart Foundation Hospital and Research Institute</item>
+        <item>Bdm Hospital</item>
+        <item>Life care</item>
+        <item>Anwer Khan Modern Hospital Ltd</item>
+        <item>Green Life Hospital Limited</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Ibn Sina Consultation Center</item>
+        <item>Medinova</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Kidney-Urology and General Hospital</item>
+        <item>Digilab Medical Services Ltd</item>
+        <item>Lions Eye Hospital</item>
+        <item>City Hospital</item>
+        <item>Samorita Hospital</item>
+    </string-array>
+
+
+    <string-array name="h_status">
+        <item>General Hospital</item>
+        <item>Cardiac ( Heart - Cardiology ) Hospital</item>
+        <item>Cardiac and General Hospital</item>
+        <item>General Hospital</item>
+        <item>Private Hospital</item>
+        <item>Private Hospital</item>
+        <item>Private Hospital</item>
+        <item>Private Hospital</item>
+        <item>Private Hospital</item>
+        <item>Private Hospital</item>
+        <item>Private Hospital</item>
+        <item>Eye Hospital</item>
+        <item>Eye Hospital</item>
+        <item>Cancer Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>Clinic</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>General Hospital</item>
+        <item>Private Hospital</item>
+        <item>Private Hospital</item>
+        <item>General Hospital</item>
+        <item>Private Hospital</item>
+        <item>Eye Hospispiatl</item>
+        <item>Private Hospital</item>
+        <item>General Hospital</item>
+    </string-array>
+
+    <string-array name="h_phone">
+        <item>+880-2-8836000 -10 (8066), +880-2-8836434-44 (8066) Cell: +880 1914001234</item>
+        <item>+880-2-880-2-9676356, 8610793-8</item>
+        <item>+880-2-9006820, 9008181, 8058782, 8055363, Mobile - 01720083786, 01678090766</item>
+        <item>+880 1819214990</item>
+        <item>+88029672277</item>
+        <item>+880255037242</item>
+        <item>+88028932430</item>
+        <item>+88029660015</item>
+        <item>+88029339089</item>
+        <item>+8801992346631</item>
+        <item>+88029137076</item>
+        <item>+8801716-165353</item>
+        <item>+880-2-8113628</item>
+        <item>+880-2-9008919,8051618</item>
+        <item>+880-2-8916290, 8920165</item>
+        <item>+880-2 8952851-2</item>
+        <item>+880-1713-702838</item>
+        <item>+880-091-61765</item>
+        <item>8118709</item>
+        <item>8114980, 9129426</item>
+        <item>9113831, 9114220</item>
+        <item>9122560-78</item>
+        <item>8631619</item>
+        <item>9006820,9008181</item>
+        <item>8117031</item>
+        <item>8119229,8121172,9000000</item>
+        <item>8952851-2</item>
+        <item>8118905, 9115953</item>
+        <item>9120615</item>
+        <item>9333730</item>
+        <item>9122689, 9122690</item>
+        <item>8123730, 8116637</item>
+        <item>8614001-9, 8614545</item>
+        <item>9114824</item>
+        <item>9114266, 8123977</item>
+        <item>01735741486, 01711312963</item>
+        <item>+880-2-9661213, 8613883</item>
+        <item>+880-2-9612345-54, 9615412, 8628820-1</item>
+        <item>+880-2-8401661</item>
+        <item>+880-2-9669480, 9661491-2</item>
+        <item>+880-2-8618007,9666497</item>
+        <item>+88028620353-6,8624907-10</item>
+        <item>+880-2-8124990</item>
+        <item>+8801926845462</item>
+        <item>+880-2-89013457</item>
+        <item>+880-2-9131990, 8110894, 8157152</item>
+        <item>+880-2-8143312</item>
+        <item>+88002-9131901</item>
+    </string-array>
+
+    <string-array name="h_open">
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open Until 2:30 PM</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open Until 9:00 PM</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 24 Hours</item>
+        <item>Open 16 Hours</item>
+        <item>Open 20 Hours</item>
+        <item>Open 24 Hours</item>
+    </string-array>
+
+    <string-array name="latitude">
+        <item>23.804542</item>
+        <item>23.7418153</item>
+        <item>23.8027227</item>
+        <item>23.7394789</item>
+        <item>23.7393494</item>
+        <item>23.8098674</item>
+        <item>23.8678745</item>
+        <item>23.7337963</item>
+        <item>23.7475414</item>
+        <item>23.8192858</item>
+        <item>23.7509948</item>
+        <item>23.751357</item>
+        <item>23.7505897</item>
+        <item>23.8035833</item>
+        <item>23.8814887</item>
+        <item>23.7540208</item>
+        <item>24.3781973</item>
+        <item>23.7263278</item>
+        <item>23.8309152</item>
+        <item>23.7770677</item>
+        <item>23.77711</item>
+        <item>23.7691596</item>
+        <item>23.8233501</item>
+        <item>23.8027172</item>
+        <item>23.8033387</item>
+        <item>23.7591263</item>
+        <item>23.7538599</item>
+        <item>23.7586263</item>
+        <item>26.7061328</item>
+        <item>23.7761626</item>
+        <item>26.1356998</item>
+        <item>23.739179</item>
+        <item>22.5862971</item>
+        <item>23.7967273</item>
+        <item>23.7682989</item>
+        <item>23.7471185</item>
+        <item>23.7452143</item>
+        <item>23.7464624</item>
+        <item>23.8183242</item>
+        <item>23.7391266</item>
+        <item>23.7450936</item>
+        <item>23.7444468</item>
+        <item>23.749838</item>
+        <item>23.7517621</item>
+        <item>23.8212711</item>
+        <item>23.779425</item>
+        <item>23.7540569</item>
+        <item>23.7526863</item>
+    </string-array>
+
+    <string-array name="longitude">
+        <item>90.415591</item>
+        <item>90.3830271</item>
+        <item>90.3706907</item>
+        <item>90.3965056</item>
+        <item>90.3749795</item>
+        <item>90.4310608</item>
+        <item>90.3953173</item>
+        <item>90.3727147</item>
+        <item>90.398826</item>
+        <item>90.3633053</item>
+        <item>90.3867759</item>
+        <item>90.3690835</item>
+        <item>90.3664893</item>
+        <item>90.3766599</item>
+        <item>90.4042162</item>
+        <item>90.3004914</item>
+        <item>88.4215751</item>
+        <item>90.3907305</item>
+        <item>90.3568511</item>
+        <item>90.3646731</item>
+        <item>90.364704</item>
+        <item>90.3707354</item>
+        <item>90.3687299</item>
+        <item>90.3707115</item>
+        <item>90.3702119</item>
+        <item>90.3901092</item>
+        <item>90.4406748</item>
+        <item>90.3902246</item>
+        <item>88.41849</item>
+        <item>90.3935806</item>
+        <item>50.5227074</item>
+        <item>90.3950835</item>
+        <item>88.3599895</item>
+        <item>90.3651053</item>
+        <item>90.3677992</item>
+        <item>90.3807081</item>
+        <item>90.3820224</item>
+        <item>90.3855481</item>
+        <item>90.4074148</item>
+        <item>90.3817524</item>
+        <item>90.3723456</item>
+        <item>90.414005</item>
+        <item>90.3862097</item>
+        <item>90.384398</item>
+        <item>90.3647227</item>
+        <item>90.3791433</item>
+        <item>90.3653939</item>
+        <item>90.3849245</item>
+    </string-array>
+
+
+    <string-array name="somitrahospitalDoctorsName">
+        <item>Dr. A.T.M Khaliquzzaman</item>
+        <item>Dr. M A Rouf Sardar</item>
+        <item>Dr. M. Shajib Amin</item>
+        <item>Prof. Dr. M.A. Samad</item>
+        <item>Professor Dr. Md. Abdul Kalam</item>
+        <item>Professor Dr. Md. Margub Hussain</item>
+        <item>Dr. Md. Saif Ullah Khan</item>
+        <item>Dr. Lt. Col. Md. Yusuf</item>
+        <item>Dr. Md. Zonaid Rahim</item>
+        <item>Dr. Nasima Arjumand Banu</item>
+        <item>Prof. Dr. R.A Chowdhury Pervez</item>
+        <item>Prof. Dr. Saleha Begum Chowdhury</item>
+    </string-array>
+
+    <string-array name="somitrahospitalDoctorsQualification">
+        <item>MBBS ( DMC ), D - Orth, FAO ( Swiss ), MOAA ( Swiss )</item>
+        <item>MBBS</item>
+        <item>BDS, DPH ( England ), PGT</item>
+        <item>MBBS, D-Ortho, MS ( Ortho. ) V Fellow Ortho</item>
+        <item>MBBS, FCPS ( Surgery )</item>
+        <item>FCPS, M.H.P.ED</item>
+        <item>MS ( CV and T )</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, DLO</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, FCPS ( Surgery )</item>
+        <item>MBBS, FCPS</item>
+    </string-array>
+
+    <string-array name="somitrahospitalDoctorsDesignation">
+        <item>Consultant, Traumatic and Orthopaedic Surgeon</item>
+        <item>Associate Professor, Otolaryngology</item>
+        <item>Consultant</item>
+        <item>Professor</item>
+        <item>Professor and Head, Dept. Of Plastic and Reconstructive Surgery</item>
+        <item>Professor Dr. Md. Margub Hussain</item>
+        <item>Assistant Professor</item>
+        <item>Consutant - Spine Pain, Arthritis, Paralysis</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Professor, Department of Surgery</item>
+        <item>Professor, Department of Obs. and Gyne.</item>
+    </string-array>
+
+    <string-array name="somitrahospitalDoctorsChamber">
+        <item>Samorita Hospital Ltd.</item>
+        <item>Samorita Hospital Ltd.</item>
+        <item>Samorita Hospital Ltd.</item>
+        <item>Samorita Hospital Ltd.</item>
+        <item>Samorita Hospital Ltd.</item>
+        <item>Samorita Hospital Ltd.</item>
+        <item>Samorita Hospital Ltd.</item>
+        <item>Samorita Hospital Ltd.</item>
+        <item>Samorita Hospital Ltd.</item>
+        <item>Samorita Hospital Ltd.</item>
+        <item>Samorita Hospital Ltd.</item>
+        <item>Samorita Hospital Ltd.</item>
+    </string-array>
+
+    <string-array name="somitrahospitalDoctorsLocation">
+        <item>89/1, Panthapath, Dhaka -1205</item>
+        <item>89/1, Panthapath, Dhaka -1205</item>
+        <item>89/1, Panthapath, Dhaka -1205</item>
+        <item>89/1, Panthapath, Dhaka -1205</item>
+        <item>89/1, Panthapath, Dhaka -1205</item>
+        <item>89/1, Panthapath, Dhaka -1205</item>
+        <item>89/1, Panthapath, Dhaka -1205</item>
+        <item>89/1, Panthapath, Dhaka -1205</item>
+        <item>89/1, Panthapath, Dhaka -1205</item>
+        <item>89/1, Panthapath, Dhaka -1205</item>
+        <item>89/1, Panthapath, Dhaka -1205</item>
+        <item>89/1, Panthapath, Dhaka -1205</item>
+    </string-array>
+
+    <string-array name="somitrahospitalDoctorsPhone">
+        <item>+880-2-9131901</item>
+        <item>+880-2-9131901</item>
+        <item>+880-2-9131901</item>
+        <item>+880-2-9131901</item>
+        <item>+880-2-9131901</item>
+        <item>+880-2-9131901</item>
+        <item>+880-2-9131901</item>
+        <item>+880-2-9131901</item>
+        <item>+880-2-9131901</item>
+        <item>+880-2-9131901</item>
+        <item>+880-2-9131901</item>
+        <item>+880-2-9131901</item>
+    </string-array>
+
+    <string-array name="cityHospitalDoctorsName">
+        <item>Dr. A. F. Mohiuddin Khan</item>
+        <item>Dr. A.M.S.M. Sharfuzzaman Rubel</item>
+        <item>Dr. Abdul Hamid</item>
+        <item>Dr. Abu Siddique</item>
+        <item>Dr. Abu Zafor Chowdhury (Biru)</item>
+        <item>Dr. Ahmad Hossen Morshed</item>
+        <item>Dr. Anjuman Ara Rita</item>
+        <item>Professor Dr. Ashraful Islam</item>
+        <item>Dr. Ehsan Mahmoo</item>
+        <item>Dr. Fatema Ashraf</item>
+        <item>Prof. Dr. Firoz Ahmed Quaraishi</item>
+        <item>Dr. Golam Faruque</item>
+        <item>Dr. Golam Mowla Chowdhury</item>
+        <item>Dr. Gulzar Banu</item>
+        <item>Dr. Helena Begum</item>
+        <item>Dr. Ishtiak Ahmed shamim</item>
+        <item>Dr. Jesmin Ara Begum</item>
+        <item>Prof. Dr. KH. Abdul Awal Rizvi</item>
+        <item>Dr. Khaleda Akhter</item>
+        <item>Dr. Laila Afroz Neela</item>
+    </string-array>
+
+    <string-array name="cityHospitalDoctorsQualification">
+        <item>MBBS, DLO(DU), MS (ENT)</item>
+        <item>MBBS(Dhaka), FCPS (Surgery)</item>
+        <item>MBBS, DTCD, MRI</item>
+        <item>MBBS, FCPS (Surgery)</item>
+        <item>MBBS, MS(Ortho)</item>
+        <item>MBBS, MD ( USA ), FCPS ( Medicine )</item>
+        <item>MBBS, FCPS ( Gyne. and Obs.)</item>
+        <item>MBBS, FCPS, FICS (USA)</item>
+        <item>MBBS, PhD, FICS</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS (Dhaka), FCPS (Med), MD (Neurology)</item>
+        <item>MBBS, M.S. (Ortho)</item>
+        <item>MBBS,Ph.D(London) Postdoctoral,Fellow(Japan)</item>
+        <item>MBBS, DGO ( London )</item>
+        <item>MBBS, FCPS ( Pediatric )</item>
+        <item>MBBS(Dhaka),Ph.D(Japan)</item>
+        <item>MBBS, DGO, FRSH</item>
+        <item>MS(Ortho), FICS, Visiting Fellow (Edn)</item>
+        <item>MBBS, MCPS, FCPS</item>
+        <item>MBBS,BCS(Health),FCPS (Gynae and Obs)</item>
+    </string-array>
+
+    <string-array name="cityHospitalDoctorsDesignation">
+        <item>Assistant Professor</item>
+        <item>Professor, Department of Surgery</item>
+        <item>Consultant</item>
+        <item>Associate Professor</item>
+        <item>Assistant Professor</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Professor and Head, Dept of ENT-Head and Neck Surgery</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor</item>
+        <item>Professor and Head of Neuro medicine</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor, Dept. of Urology</item>
+        <item>Consultant</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Consultant</item>
+        <item>Professor</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+    </string-array>
+
+    <string-array name="cityHospitalDoctorsChamber">
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+        <item>City Hospital Ltd.</item>
+    </string-array>
+
+    <string-array name="cityHospitalDoctorsPhone">
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+        <item>+88028143166</item>
+    </string-array>
+
+
+    <string-array name="cityHospitalDoctorsLocation">
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+        <item>1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka - 1207, Bangladesh</item>
+    </string-array>
+
+    <string-array name="lionsEyeHospitalsDoctorsName">
+        <item>Prof. Col. Dr. Md. Abdur Rouf Siddique</item>
+        <item>Dr. Md. Mahbubar Rahman</item>
+        <item>Dr. Liakat Ali Talukder</item>
+        <item>Dr. Md. Shahidul Haque</item>
+        <item>Dr. Zakia Wadud</item>
+        <item>Dr. Rezaul Karim</item>
+        <item>Dr. Bibekananda Biswas</item>
+        <item>Dr. Sabrina Rahmatullah</item>
+        <item>Dr. Maliha Sharmin</item>
+        <item>Dr. Sohana Sharmin Gazi</item>
+        <item>Dr. Abul Hossain</item>
+        <item>Dr. Md. Abu Afza</item>
+        <item>Dr. Rinku Paul</item>
+        <item>Dr. Taslima Mazid</item>
+        <item>Dr. Rejaul Karim</item>
+        <item>Dr. A.H.M. Ehsanur Reza</item>
+        <item>Dr. Shajeda Akter</item>
+        <item>Dr. Md. Atiqur Rahman</item>
+        <item>Dr. Kakoli Dey</item>
+    </string-array>
+
+
+    <string-array name="lionsEyeHospitalsDoctorsQualification">
+        <item>MBBS D.O. FCPS</item>
+        <item>MBBS - 1980 DO - 1985 MPH (Oph)- 2006</item>
+        <item>MBBS - 1982 DO - 1996 MPH (C.OPhth.)</item>
+        <item>MBBS - 1976 DOMS - 1984 MPH - 2010</item>
+        <item>MBBS,FCPS</item>
+        <item>MBBS 1982 MCPS(Opth)-1996 DO Passed 1997</item>
+        <item>MBBS,DO,FCPS</item>
+        <item>MBBS,FCPS</item>
+        <item>MBBS,FCPS</item>
+        <item>MBBS - 1997 DO - 2008 MCPS-2008</item>
+        <item>MBBS – 1986 DO - 2001</item>
+        <item>MBBS - 1978 DOMS - 1983</item>
+        <item>MBBS - 2001 DO - 2009</item>
+        <item>MBBS,MCPS,FCPS</item>
+        <item>MBBS - 1970</item>
+        <item>MBBS</item>
+        <item>MBBS</item>
+        <item>MBBS</item>
+        <item>MBBS</item>
+    </string-array>
+
+
+    <string-array name="lionsEyeHospitalsDoctorsDesignation">
+        <item>Director General</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor</item>
+        <item>Assistant Professor</item>
+        <item>Associate Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Sr. Medical Officer</item>
+        <item>Sr. Consultant</item>
+        <item>Jr. Consultant</item>
+        <item>Jr. Consultant</item>
+        <item>Sr. Consultant</item>
+        <item>Sr. Medical Officer</item>
+        <item>Asst. Registrar</item>
+        <item>Medical Officer</item>
+        <item>Medical Officer</item>
+        <item>Medical Officer</item>
+    </string-array>
+
+
+    <string-array name="lionsEyeHospitalsDoctorsPhone">
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+        <item>+880-2-9131990</item>
+    </string-array>
+
+    <string-array name="lionsEyeHospitalsDoctorsChamber">
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+        <item>Lions Eye Hospital</item>
+    </string-array>
+
+    <string-array name="lionsEyeHospitalsDoctorsLocation">
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+        <item>Agargong,Shere-Baangla-Nagar</item>
+    </string-array>
+
+    <string-array name="digilabHospitalDoctorsName">
+        <item>Dr. Kazi habibur Rahman</item>
+    </string-array>
+    <string-array name="digilabHospitalDoctorsQualification">
+        <item>MBBS, MS ( Pediatric Surgeon )</item>
+    </string-array>
+
+    <string-array name="digilabHospitalDoctorsDesignation">
+        <item>Assistant Professor</item>
+    </string-array>
+    <string-array name="digilabHospitalDoctorsChamber">
+        <item>Digilab Medical Services Ltd.</item>
+    </string-array>
+
+    <string-array name="digilabHospitalDoctorsLocation">
+        <item>840, Kazipara, Begum Rokeya Sarani, Mirpur, Dhaka, Bangladesh</item>
+    </string-array>
+
+    <string-array name="digilabHospitalDoctorsPhone">
+        <item>+880-2-89013457</item>
+    </string-array>
+
+    <string-array name="alraziHospitalDoctorsName">
+        <item>Professor Dr. Golam Mainuddin</item>
+    </string-array>
+    <string-array name="alraziHospitalDoctorsQualification">
+        <item>MBBS, FCPS (Child), FRCP (Edin)</item>
+    </string-array>
+
+    <string-array name="alraziHospitalDoctorsDesignation">
+        <item>Professor, Department of Pediatric</item>
+    </string-array>
+    <string-array name="alraziHospitalDoctorsChamber">
+        <item>Al-Razi hospital</item>
+    </string-array>
+    <string-array name="alraziHospitalDoctorsLocation">
+        <item>Al-Razi Hospital (Pvt) Ltd. 12, Farmgate, Dhaka - 1215, Bangladesh</item>
+    </string-array>
+    <string-array name="alraziHospitalDoctorsPhone">
+        <item>+880-2-8121172, 9133563-4, 9674555</item>
+    </string-array>
+
+
+    <string-array name="kidneyAndUrologyHospitalDoctorsName">
+        <item>Dr. A. H. Hamid Ahmed</item>
+    </string-array>
+    <string-array name="kidneyAndUrologyHospitalDoctorsQualification">
+        <item>MBBS, MD ( Nephrology )</item>
+    </string-array>
+
+    <string-array name="kidneyAndUrologyHospitalDoctorsDesignation">
+        <item>Assistant Professor</item>
+    </string-array>
+    <string-array name="kidneyAndUrologyHospitalDoctorsChamver">
+        <item>Kidney-Urology and General Hospital</item>
+    </string-array>
+
+    <string-array name="kidneyAndUrologyHospitalDoctorsLocation">
+        <item>70 Green Road, Fattah Plaza, Dhaka - 1205, Bangladesh</item>
+    </string-array>
+
+    <string-array name="kidneyAndUrologyHospitalDoctorsPhone">
+        <item>+9664535, 9673739, 01926845462, 01678089254</item>
+    </string-array>
+
+    <string-array name="comfortHospitalDoctorsName">
+        <item>Profesosr Dr. A Masud Chowdhury</item>
+        <item>Professor Dr. A. A. Ashraf Ali</item>
+        <item>Dr. A. M. Farid Uddin Ahmad</item>
+        <item>Dr. Abdullah Al-Mamun</item>
+        <item>Dr. Abu Nasar Rizvi</item>
+        <item>Dr. Amal Kumar Chowdhury</item>
+        <item>Dr. Begum Nasrin ( Kiron )</item>
+        <item>Dr. Begum Sharifun Nahar</item>
+        <item>Dr. Fahmida Naz</item>
+        <item>Dr. H. I. Lutfor Rahman Khan</item>
+        <item>Dr. H. M. Nazmul Ahsan</item>
+        <item>Prof. Dr. H.I. Lutfur Rahman Khan</item>
+        <item>Dr. Hasina Afroz</item>
+        <item>Dr. J. U. Pathan ( Jashim )</item>
+        <item>Dr. Kazi Rafiqul Abedin</item>
+        <item>Dr. Khoorsheed Jahan Maula</item>
+        <item>Dr. M. M. Insan</item>
+        <item>Dr. M. N. Islam Bhuiyan</item>
+        <item>Professor Dr. M.A. Salam</item>
+        <item>Professor Dr. Matiur Rahman</item>
+        <item>Dr. Md. Feroz Amin </item>
+        <item>Dr. Md. Mohiuddin Ahmad </item>
+        <item>Dr. Md. Saifullah</item>
+        <item>Dr. Md. Shafiqul Alam </item>
+        <item>Prof. Dr. Md. Siraj-Ul-Islam</item>
+        <item>Dr. Md. Zilan Miah Sarker</item>
+        <item>Dr. Mohammad Saifullah</item>
+        <item>Dr. Mohiuddin Humayan Kabir Chowdhury</item>
+        <item>Dr. Momtaz Khanam</item>
+        <item>Dr. Mosharraf Hossain Shamim</item>
+        <item>Dr. Narayan Saha</item>
+        <item>Dr. Pranashis Saha </item>
+        <item>Prof. Dr. Shafquat Hussain Khundker</item>
+        <item>Dr. Syed Hasan Imam-Al-Masum</item>
+        <item>Profesosr Dr. Taimur A.K. Mahmud</item>
+    </string-array>
+
+
+    <string-array name="comfortHospitalDoctorsQualification">
+        <item>MBBS, DDV, DD, MS</item>
+        <item>MBBS, FCPS (Surgery), FICS, WHO-Fellow (Japan)</item>
+        <item>MBBS, FCPS ( Surgery ), MS ( Ortho. )</item>
+        <item>MBBS, FCPS ( Psychiatry )</item>
+        <item>MBBS, MD (Neurology), WFNJT Felloeship (USA)</item>
+        <item>MBBS, FCPS ( Medicine ), MD( Cardiology )</item>
+        <item>MBBS, FCPS, MS</item>
+        <item>MBBS, BCS, FCPS (Ped), MD (DU)</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, D-Card, MD (Card)</item>
+        <item>MBBS, FCPS ( Medicine )</item>
+        <item>MBBS, D-CARD, MD</item>
+        <item>MBBS, FCPS , MS.</item>
+        <item>MBBS, PGT ( Medicine and Surgery )</item>
+        <item>MBBS, MS</item>
+        <item>MBBS, DGO, MCPS </item>
+        <item>MBBS, DD ( Japan ), DD ( Thailand )</item>
+        <item>MBBS ( DMC ), FMD, FCGP, MAMS ( Vienna ), C.C. Diabetology ( BIRDEM ) </item>
+        <item>MBBS, FCPS, FICS</item>
+        <item>MBBS (Dak), MRCP (UK), FCPS (BD), FRCP (ED)</item>
+        <item>MBBS, MD ( Endocrinology )</item>
+        <item>MBBS, FCPS ( Medicine ), MD ( Chest )</item>
+        <item>MBBS, FCPS ( Eye ), MS ( Eye ), DO, MAMS ( Vienna ), AFACA (New York) </item>
+        <item>MBBS, FCPS ( Eye ), MS ( Eye ), DO, MAMS ( Vienna ), AFACA (New York) </item>
+        <item>MBBS, MS (Ortho)</item>
+        <item>MBBS, FCPS (Medicine)</item>
+        <item>FCPS ( Surgery )</item>
+        <item>MBBS, MCPS, FCPS</item>
+        <item>MBBS, MAMS ( Austria )</item>
+        <item>MBBS, MS ( Thoracic Surgery )</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, FCPS, DLO ( DU )</item>
+        <item>MBBS, FCPS, DLO ( DU )</item>
+        <item>MBBS, FCPS, DLO ( DU )</item>
+        <item>MBBS, MCPS, FCPS ( Medicine ) </item>
+        <item>MBBS, MCPS, FCPS (Medicine)</item>
+    </string-array>
+
+
+    <string-array name="comfortHospitalDoctorsDesignation">
+        <item>Professor and Chairman </item>
+        <item>Professor and Head of Department of Surgery </item>
+        <item>Assistant Professor</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor, Interventional Cardiologist</item>
+        <item>Assoicate Professor</item>
+        <item>Associate Professor, Department of Pediatrics</item>
+        <item>Medical Officer</item>
+        <item>Professor and Head, Department of Cardiology </item>
+        <item>Consultant</item>
+        <item>Professor</item>
+        <item>Assistant Professor, Department of Obs. and Gyne.</item>
+        <item>Consutlant</item>
+        <item>Assistant Professor, Urologist and Andrologist</item>
+        <item>Associate Professor</item>
+        <item>Assoicate Professor</item>
+        <item>Associate Professor</item>
+        <item>Professor and Chairman, Departmnet of Urology</item>
+        <item>Former Founder and Professor Nephrology</item>
+        <item>Assistant Professor</item>
+        <item>Associate Professor</item>
+        <item>Assistant Professor, Department of Surgery</item>
+        <item>Associate Professor</item>
+        <item>Professor</item>
+        <item>Assistant Professor of Medicine</item>
+        <item>Assistant Professor</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Assistant Profesor </item>
+        <item>Associate Professor, Pediatric Neurologist</item>
+        <item>Assistant Professor</item>
+        <item>Consultnat, ENT Surgeon </item>
+        <item>Assistant Professor </item>
+        <item>Professor</item>
+        <item>Professor</item>
+    </string-array>
+
+    <string-array name="comfortHospitalDoctorsChamber">
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+        <item>Comfort Diagnostic Centre and Comfort Nursing Home</item>
+    </string-array>
+
+    <string-array name="comfortHospitalDoctorsNumber">
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+        <item>+880-2-8124990 </item>
+    </string-array>
+    <string-array name="comfortHospitalDoctorsLocation">
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+        <item>Comfort Tower, 167/B, Green Road, Dhanmondi, Dhaka, Bangladesh</item>
+    </string-array>
+    <string-array name="medinovahospitalDoctorsName">
+        <item>Professor Dr. A.K.M. Akter Murshed</item>
+        <item>Professor Dr. Md. Fazlul Kadir </item>
+    </string-array>
+
+    <string-array name="medinovahospitalDoctorsQualification">
+        <item>MBBS, MS, FICS</item>
+        <item>MBBS, FCPS</item>
+    </string-array>
+
+    <string-array name="medinovahospitalDoctorsDesignation">
+        <item>Professor</item>
+        <item>Professor</item>
+    </string-array>
+
+    <string-array name="medinovahospitalDoctorsChamber">
+        <item>Medinova</item>
+        <item>Medinova</item>
+    </string-array>
+
+    <string-array name="medinovahospitalDoctorsLocation">
+        <item>House # 71/A, road # 5/A, Dhanmondi R/A, Dhaka.</item>
+        <item>House # 71/A, road # 5/A, Dhanmondi R/A, Dhaka.</item>
+    </string-array>
+
+    <string-array name="medinovahospitalDoctorsPhone">
+        <item>+88028620353-6, 8624907-10</item>
+        <item>+88028620353-6, 8624907-10</item>
+    </string-array>
+
+    <string-array name="ayshahospitalDoctorsName">
+        <item>Dr Reza Zillullah</item>
+    </string-array>
+
+    <string-array name="ayshahospitalDoctorsQualification">
+        <item>MBBS</item>
+    </string-array>
+
+    <string-array name="ayshahospitalDoctorsDesignation">
+        <item>GP</item>
+    </string-array>
+
+    <string-array name="ayshahospitalDoctorsChamber">
+        <item>Ayesha Memorial Hospital</item>
+    </string-array>
+
+    <string-array name="ayshahospitalDoctorsLocation">
+        <item>Arjotpara, Mohakhali, Dhaka.</item>
+    </string-array>
+
+    <string-array name="ayshahospitalDoctorsPhone">
+        <item>+88028932475</item>
+    </string-array>
+
+    <string-array name="birdemhospitalDoctorsName">
+        <item>Dr. Shams-un-Nahar ( Bela ) </item>
+    </string-array>
+
+    <string-array name="birdemhospitalDoctorsDesignation">
+        <item>Associate Professor and Consultant</item>
+    </string-array>
+
+    <string-array name="birdemhospitalDoctorsQualification">
+        <item>MBBS, FCPS</item>
+    </string-array>
+
+    <string-array name="birdemhospitalDoctorsChamber">
+        <item>BIRDEM</item>
+    </string-array>
+
+    <string-array name="birdemhospitalDoctorsPhone">
+        <item>+880 1819214990</item>
+    </string-array>
+
+    <string-array name="birdemhospitalDoctorsLocation">
+        <item>Room # 06, Consultation Chamber Complex, 122, Kazi Nazrul Islam Avenue, Dhaka - 1000</item>
+    </string-array>
+
+    <string-array name="lifecarehospitaldoctorsname">
+        <item>Dr. Mostafizur Rahman</item>
+    </string-array>
+
+    <string-array name="lifecarehospitaldoctorsQualification">
+        <item>MBBS, MD (Nephrology) (P-II), MRSH (London), FCGP (Medicine)</item>
+    </string-array>
+
+    <string-array name="lifecarehospitaldoctorsDesignation">
+        <item>Assistant Registrar</item>
+    </string-array>
+
+    <string-array name="lifecarehospitaldoctorsChamber">
+        <item>Life care</item>
+    </string-array>
+
+    <string-array name="lifecarehospitaldoctorsphone">
+        <item>01735741486, 01711312963</item>
+    </string-array>
+
+    <string-array name="lifecarehospitaldoctorsLocation">
+        <item>60, 1st lane , Kalabagan, Dhaka.</item>
+    </string-array>
+
+    <string-array name="anwarkhanmodernHospitaldoctorsName">
+        <item>Brig Gen Professor Dr. A K M Masud</item>
+        <item>Dr. A S M Kamrul Hasan</item>
+        <item>Dr. A.K.M. Fazlur Rahman</item>
+        <item>Dr. Abdus Salam Arif</item>
+        <item>Professor Dr. Abul Hasnat Joarder</item>
+        <item>Dr. Anisa Jahan</item>
+        <item>Dr. Badrul Haque</item>
+        <item>Professor Dr. Ekhlasur Rahman</item>
+        <item>Dr. Fazlur Rahman</item>
+        <item>Professor Dr. Feroze Quader</item>
+        <item>Brig Gen Professor Dr. Hasina Sultana</item>
+        <item>Dr. Jesmine Banu</item>
+        <item>Dr. Manzoor Rashed Chowdhury</item>
+        <item>Professor Dr. Md. Faruque</item>
+        <item>Professor Dr. Md. Firoz Khan</item>
+        <item>Professor Dr. Md. Mahbub - Ul - Alam</item>
+        <item>Dr. Md. Shakur Khan</item>
+        <item>Dr. Mir M. Siddiq</item>
+        <item>Professor Dr. Mohammad Azizul kahar</item>
+        <item>Professor Dr. Mohammad Mostafizur Rahman</item>
+        <item>Dr. Mohammad Yakub Ali</item>
+        <item>Professor Dr. Nausher Alam</item>
+        <item>Dr. Nusrat Mahmud</item>
+        <item>Professor Dr. Qazi Shahidul Alam</item>
+        <item>Professor Dr. S M Mahbub Alam</item>
+        <item>Dr. S.K.A. Razzaque</item>
+        <item>Dr. Saika Shaheed</item>
+        <item>Dr. Sarwar Alam</item>
+        <item>Professor Dr. Sisir K. Dutta</item>
+        <item>Dr. Suman Chowdhury</item>
+        <item>Dr. Syed</item>
+        <item>Professor Dr. Syed Ali Ahsan</item>
+    </string-array>
+
+    <string-array name="anwarkhanmodernHospitaldoctorsQualification">
+        <item>MBBS, MS</item>
+        <item>MBBS, MS ( Neurosurgery )</item>
+        <item>MBBS, MD(Card)</item>
+        <item>MBBS, FCPS ( Surgery )</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, FCPS, DCH</item>
+        <item>MBBS. Dip in Neurology (Lon), FRSM. FRSH (Lon).</item>
+        <item>MBBS, FCPS, FRCS ( Edin )</item>
+        <item>MBBS, FCPS ( Surgery ), FICS</item>
+        <item>MBBS, PGT ( Malaysia ), DGO, FCPS ( Gyna and Obs )</item>
+        <item>MBBS, MS</item>
+        <item>MBBS, MS ( Urology )</item>
+        <item>MBBS, MS ( Urology )</item>
+        <item>MBBS, MD</item>
+        <item>MBBS, MD, FRCP ( England ) , ISN fello ( Japan )</item>
+        <item>MBBS, FCPS ( Surgery ), FICS</item>
+        <item>MBBS, FCPS ( Surgery ), FICS</item>
+        <item>MBBS, MCPS ( Medicine ) , MD ( Chest )</item>
+        <item>MBBS, DD ( Thailand )</item>
+        <item>MBBS, DD ( Thailand )</item>
+        <item>MBBS, MRCP ( UK ), FCPS</item>
+        <item>MBBS, MRCP ( UK ), FCPS</item>
+        <item>MBBS, FRCS ( Edin )</item>
+        <item>MBBS, FRCS ( Edin )</item>
+        <item>MBBS, M.Phil, M.Sc, Phd</item>
+        <item>MBBS, M.Phil, M.Sc, Phd</item>
+        <item>MBBS, FCPS, FICS ( Neurosurgery )</item>
+        <item>MBBS, MSc ( Singapore )</item>
+        <item>MBBS, D. Orth, MS ( Orth ) , FICS ( USA )</item>
+        <item>MBBS, FCPS ( Surgery ), MS ( Urology )</item>
+        <item>MBBS, FCPS ( Medicine ), MD ( Gastro )</item>
+        <item>MBBS, MD ( Cardiology ), FICC ( India ), AACC ( USA )</item>
+    </string-array>
+
+    <string-array name="anwarkhanmodernHospitaldoctorsDesignation">
+        <item>Professor and Head, Department of Orthopaedics</item>
+        <item>Assistant Professor , Department of Neurosurgery</item>
+        <item>Associate Professor</item>
+        <item>Senior Consultant</item>
+        <item>Professor and Chairman</item>
+        <item>Associate Professor</item>
+        <item>Consultant</item>
+        <item>Professor and Head, Deprtamnet of Pediatrics</item>
+        <item>Associate Professor, Department of Cardiology </item>
+        <item>Professor</item>
+        <item>Professor and Head, Department of Gynae and Obs</item>
+        <item>Assistant Professor , Department of Gynae and Obst.</item>
+        <item>Consultant, Department of Urology</item>
+        <item>Professor, Department of Cardiology</item>
+        <item>Professor, Department of Nephrology</item>
+        <item>Professor and Head, Deprtamnet of Pediatric Surgeon</item>
+        <item>Assistant Professor</item>
+        <item>Consultant</item>
+        <item>Professor</item>
+        <item>Professor</item>
+        <item>Specialist</item>
+        <item>Professor and Head, Neurology Department</item>
+        <item>Consultant, Department of Obs and Gynae</item>
+        <item>Professor</item>
+        <item>Professor and Head, Department of Urology </item>
+        <item>Associate Professor and Head of Department of Pediatric Cardiology</item>
+        <item>Consultant</item>
+        <item>Associate Professor</item>
+        <item>Professor</item>
+        <item>Child Specialist</item>
+        <item>Associate Professor</item>
+        <item>Professor, Cardiology </item>
+    </string-array>
+
+    <string-array name="anwarkhanhospitalDoctorsLocation">
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+    </string-array>
+
+    <string-array name="anwarkhanhospitalDoctorsPhone">
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+        <item>+880-2-8613883</item>
+    </string-array>
+
+    <string-array name="anwarkhanhospitalDoctorsChamber">
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+        <item>Anwer Khan Modern Hospital Ltd.</item>
+    </string-array>
+
+    <string-array name="ibnsinadospitalDoctorsLocation">
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+        <item>House # 17, Road # 8, Dhanmondi, Dhaka - 1205, Bangladesh</item>
+    </string-array>
+
+    <string-array name="ibasinahospitaldoctorsName">
+        <item>Dr. M Idris Ali</item>
+        <item>Dr. Ziaul Haq</item>
+    </string-array>
+
+    <string-array name="ibasinaHospitaldoctorsQualification">
+        <item>MBBS, FCPS</item>
+        <item>MBBS, FCPS,FICS</item>
+    </string-array>
+
+    <string-array name="ibasinaHospitaldoctorsDesignation">
+        <item>Associate Professor</item>
+        <item>Consultant</item>
+    </string-array>
+
+    <string-array name="ibasinaHospitaldoctorsChamber">
+        <item>Ibn Sina Consultation Center</item>
+        <item>Ibn Sina Consultation Center</item>
+    </string-array>
+
+    <string-array name="ibasinaHospitaldoctorsPhone">
+        <item>+880-2-8618262, 9666497</item>
+        <item>+880-2-8618262, 9666497</item>
+    </string-array>
+
+    <string-array name="ibasinaHospitaldoctorsLocation">
+        <item>House# 58, Road#2/A , Dhanmondi, Dhaka</item>
+        <item>House# 58, Road#2/A , Dhanmondi, Dhaka</item>
+    </string-array>
+
+
+    <string-array name="popularHospitalDoctorsName">
+        <item>Dr. A H M Rowshon</item>
+        <item>Dr. A K M Motiur Rahman Bhuiyan</item>
+        <item>Dr. A N M Zia-Ur- Rahman</item>
+        <item>Professor Dr. A.K.M. Rafique Uddin</item>
+        <item>Dr. A.N.M. Harunur Rashid ( Uzzal ) </item>
+        <item>Professor Dr. Abdullah-Al-Safi Majumder</item>
+        <item>Professor Dr. AKM Anwarul Islam</item>
+        <item>Dr. Biplob Kumar Roy </item>
+        <item>Professor Dr. Farhat Hossain</item>
+        <item>Professor Dr. Faruque Ahmed </item>
+        <item>Dr. Farzana Sohael</item>
+        <item>Dr. Ferdousi Begum</item>
+        <item>Dr. G M Reza</item>
+        <item>Dr. ( Capt. Rtd. ) H.S Ferdous</item>
+        <item>Dr. Hafizur Rahman </item>
+        <item>Prof. Dr. Harun-Ur-Rashid</item>
+        <item>Dr. Iqbal Ahmed</item>
+        <item>Professor Dr. Jalal Ahmed</item>
+        <item>Dr. K.C Ganguly</item>
+        <item>Professor Dr. Kanak Kanti Barua</item>
+        <item>Dr. Kaniz Fatema </item>
+        <item>Professor Dr. Kazi A. Karim</item>
+        <item>Dr. KBM Hadiuzzaman </item>
+        <item>Dr. Khandaker Qamrul Islam</item>
+        <item>Professor Dr. Kohinoor Begum</item>
+        <item>Professor Dr. M A Azhar</item>
+        <item>Professor Dr. M Mujibul Hoque </item>
+        <item>Professor Dr. M. A. Azhar</item>
+        <item>Professor Dr. M. A. Jaigirdar</item>
+        <item>Professor Dr. M. A. Razzak</item>
+        <item>Dr. M. A. Sayem </item>
+        <item>Professor Dr. M. Muhibur Rahman</item>
+        <item>Professor Dr. M. Nazrul Islam</item>
+        <item>Professor Dr. M. T. Rahman </item>
+        <item>Professor Dr. Marina Khanam</item>
+        <item>Dr. Md. Abu Jafor</item>
+        <item>Dr. Md. Abu Jafor</item>
+        <item>Professor Dr. Md. Abu Siddique</item>
+        <item>Professor Dr. Md. Anisur Rahman </item>
+        <item>Dr. Md. Anwarul Haque </item>
+        <item>Professor Dr. ( Major Retd. ) Md. Ashraful Islam</item>
+        <item>Professor Dr. Md. Enamul Karim</item>
+        <item>Dr. Md. Faizul Islam </item>
+        <item>Dr. Md. Farid Uddin</item>
+        <item>Professor Dr. Md. Golam Kibria Khan</item>
+        <item>Professor Dr. Md. Habibur Rahman</item>
+    </string-array>
+
+    <string-array name="popularHospitalDoctorsDesignation">
+        <item>Professor, Department of Gastroenterlogy</item>
+        <item>Assistant Professor, Medicine Department</item>
+        <item>Principal and Professor of Surgery</item>
+        <item>Professor and Head, Departnment of Medicine</item>
+        <item>Assistant Professor</item>
+        <item>Professor of Cardiology</item>
+        <item>Professor, Department of Urology</item>
+        <item>Assistant Professor</item>
+        <item>Professor, Gyne. Oncology Specialist</item>
+        <item>Professor and Head, Dept. of Gastroenterology </item>
+        <item>Assistant Professor, Gyne. and Obs.</item>
+        <item>Specialist, Gyne. and Obs.</item>
+        <item>Consultant, Orhtopaedic and Trauma Surgery</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Former Professor and Chairman</item>
+        <item>Specialist</item>
+        <item>Professor, Department of Cataract, Phaco and Anterior Segment Surgeon </item>
+        <item>Assistant Professor</item>
+        <item>Professor, Department of Neuro Surgery</item>
+        <item>Executive Senior Consultant</item>
+        <item>Professor</item>
+        <item>Assistant Professor</item>
+        <item>Associate Professor</item>
+        <item>Professor, Department of Gynecology</item>
+        <item>Principal and Head, Department of Medicine</item>
+        <item>Ex - Professor and Head, DMCH </item>
+        <item>Principal and Head, Department of Medicine</item>
+        <item>Professor</item>
+        <item>Specialist</item>
+        <item>Specialist</item>
+        <item>Professor, Department of Nephrology</item>
+        <item>Professor of Interventional Cardioloy</item>
+        <item>Former Professor, Gastrointestinal Liver and Pancereatic Diseases</item>
+        <item>Ex - Professor Of DMCH</item>
+        <item>Associate Professor. Head, Department of Pediatric Surgery</item>
+        <item>Associate Professor. Head, Department of Pediatric Surgery</item>
+        <item>Professor</item>
+        <item>Professor and Senior Consultant, Department of Gastrointestinal Liver and Pancreatic Disorder</item>
+        <item>Associate Professor, Department of Orthopadeci Surgery</item>
+        <item>Professor and Head </item>
+        <item>Professor of Medicine</item>
+        <item>Consultant</item>
+        <item>Associate Professor, Endocrine Medicine</item>
+        <item>Associate Professor</item>
+        <item>Professor, Department of Nephrology</item>
+    </string-array>
+
+    <string-array name="popularHospitalDoctorsQualification">
+        <item>MBBS, FCPS (Med.), MD(Gastro), Commonwealth Fellow-gastro (UK)</item>
+        <item>MBBS, MPH, MD</item>
+        <item>MBBS, FCPS. FICS Trained in Gastroenterology (Japan)</item>
+        <item>MBBS, MD ( USA ), FCPS ( Medicine ), FACP ( USA )</item>
+        <item>MBBS, MS (Ortho) </item>
+        <item>MBBS, D. Card, MD(Card), FACC, FSGC, FRCP Research Fellow, NCVC, (Japan) WHO Fellow in Cardiology, USA</item>
+        <item>MBBS, FCPS, FRCS, FICS Clinical Fellow in Urology (WHO)</item>
+        <item>MBBS, MPH, MCPS ( Medicine ), MD (Neurology)</item>
+        <item>MBBS, FCPS (Gynae) Fellow-Gynae Oncology (TATA Memorial Hospital, India)</item>
+        <item>MBBS, FCPS ( Med. ), MD (Gastro.)</item>
+        <item>MBBS, FCPS (Gynae and Obs)</item>
+        <item>BBS, DGO, FCPS</item>
+        <item>MBBS, MCPS (Surgery), D(Ortho), MS (Ortho), AAOS (USA)</item>
+        <item>MBBS, DEM (DU), FRMH (Australia), MACE (USA) Ph.D Fellow(DU), Ex-Visiting Associate RMH (Australia)</item>
+        <item>FRCOG</item>
+        <item>MBBS, P.hD, FCPS, FRCP</item>
+        <item>MBBS, CCD (Birdem)</item>
+        <item>MBBS, FCPS, FICS</item>
+        <item>MBBS, DTCD, MD, FCPS, MCPS ( USA )</item>
+        <item>MBBS, FCPS (Surgery), MS (Neuro Surgery) Ph.D, FICS</item>
+        <item>MBBS, DGO (DU)</item>
+        <item>MBBS (Dhk), DDV (Vien), MSSVD (London)</item>
+        <item>MBBS, MD ( Nephrology )</item>
+        <item>MBBS, D.Card (DU), Md (Cardioloty), FACC (USA)</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, FCPS, FACP, FRCP (Edin)</item>
+        <item>MBBS, FCPS, FRCP, DDV ( DU ), DDV (Austria)</item>
+        <item>MBBS, FCPS, FACP, FRCP (Edinburgh)</item>
+        <item>MBBS, DCH, MRCP (UK)</item>
+        <item>MBBS, DA ( DU ), MASA ( USA )</item>
+        <item>MBBS, DLP ( Diabetology ) - BIRDEM, C.C</item>
+        <item>MBBS (DMC), FCPS (Medicine), MRCP (UK), Ph.D Nephrology (London)</item>
+        <item>MBBS, FCPS, FRCP, FACC, FESC</item>
+        <item>MBBS, FCPS, Trained in France and Japan</item>
+        <item>MBBS (Dhaka), MCPS (Surgery) FCPS (Surgery), MS (Ped. Surgery)</item>
+        <item>MBBS (Dhaka), MCPS (Surgery) FCPS (Surgery), MS (Ped. Surgery)</item>
+        <item>MBBS (Dhaka), MCPS (Surgery) FCPS (Surgery), MS (Paed. Surgery)</item>
+        <item>MBBS, FPGCS ( Medicine ) , PhD ( Cardiology ) </item>
+        <item>MBBS, FCPS, Trained in Therapeutic Endoscopy (Japan)</item>
+        <item>MBBS, MS (Ortho)</item>
+        <item>MBBS, FCPS, FICS (USA) Fellow in Otology Harvard Medical School, USA</item>
+        <item>MBBS, FCPS (Medicine), FACP (USA) WHO Fellow (Diabetics)</item>
+        <item>MBBS, ARAB Board ( FCPS ), DCH, RCPS ( Ire.)</item>
+        <item>MBBS, DEM, MD</item>
+        <item>MBBS (Dhaka), FCPS (Medicine), MACP (USA), FACP (USA), Rheumatology Fellow (USA)</item>
+        <item>MBBS, FCPS, MSC (Eng), FRCP (Edin)</item>
+    </string-array>
+
+    <string-array name="popularHospitaldoctorsChamber">
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+        <item>Popular Diagnostic Centre Ltd - Dhanmondi Branch</item>
+    </string-array>
+
+    <string-array name="popularHospitalDoctorsPhone">
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+        <item>+880-2-9669480, 9661551-9, +880-2-8315331</item>
+    </string-array>
+
+    <string-array name="popularHospitalDoctorsLocation">
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+        <item>Road # 2, House # 9/A, Dhanmondi. Dhaka - 1205. Bangladesh.</item>
+    </string-array>
+
+    <string-array name="armforceHospitalDOctorsName">
+        <item>Dr. A.H.M. Waliul Islam</item>
+        <item>Dr. A.Q.M. Reza</item>
+        <item>Professor Dr. A.S.M.A Raihan</item>
+        <item>Professor Dr. Abdul Haque</item>
+        <item>Dr. Azizul Hasan</item>
+        <item>Dr. Chandra Prakash Dokwal</item>
+        <item>Dr. Hasmat Ali</item>
+        <item>Dr. Hossain Imam Al Hadi</item>
+        <item>Dr. Jasmin Manzoor</item>
+        <item>Dr. Krishna Mohan Sahu</item>
+        <item>Professor Dr. M. A. Wadud</item>
+        <item>Professor Dr. Mainul haque Sarker</item>
+        <item>Professor Dr. Md. Atiqur Rahman</item>
+        <item>Dr. Md. Delwar Hossain</item>
+        <item>Professor Dr.(Major Retd) Md. Julhas Uddin</item>
+        <item>Dr. Md. Mazharul Haque Khan</item>
+        <item>Dr. Motiur Rahman Molla</item>
+        <item>Dr. Mrinal Kumar Sarker</item>
+        <item>Dr. Muhammad Nazrul Islam</item>
+        <item>Dr. Parveen Akhter</item>
+        <item>Professor Dr.(Lt.Col Retd.) Q M Mahbub Ullah </item>
+        <item>Dr. Tamzeed Ahmed</item>
+        <item>Professor Dr. Tareak-Al-Nasir</item>
+    </string-array>
+
+    <string-array name="armforceHospitalDOctorsQualification">
+        <item>MBBS, PhD. Cardiology (Osaka Univ.), FACC (USA), FSCAI (USA) Fellow Invasive and Interventional Cardiology, NCVC (Japan)</item>
+        <item>MBBS, MD (Cardiology), FACC (USA)</item>
+        <item>MBBS, MD (Gastro), FRCP (edin)</item>
+        <item>MBBS, FCPS, FICS</item>
+        <item>MBBS, MRCP (UK), MRCP (Ireland), D.Card. (Austria), DTCD (Wales), FAMS (Austria)</item>
+        <item>MBBS, MD (Chest Medicine)</item>
+        <item>MBBS, Ph.D (Neurosurgery, Japan) Advanced Clinical Training in Back Pain, Neck Pain and Stroke</item>
+        <item>MBBS, FCPS, FRCS (Glasgow), Fellowship Training (UK)</item>
+        <item>MBBS, DDSc (UK), MDSc (USA), Clinical Fellowship in Advanced Dermatology and Wound Healing (USA)</item>
+        <item>MBBS, MD (Medicine), DNB (Nephrology), DM (Nephrology), Fellowship - Nephrology (Canada)</item>
+        <item>MBBS, MS ( Neuro Surgery)</item>
+        <item>MBBS (Dhaka), DTCD (D.U), MD (Chest)</item>
+        <item>MBBS (Dhaka), DMRD (D.U.)</item>
+        <item>MBBS, Grading Med (AFMI), FCPS (Med)</item>
+        <item>MBBS (Dhaka), FRCS (Glasgow),FRCS (Edin) UK, Fellowship (Japan)</item>
+        <item>BDS, FCPS (Hons), Post Graduate Diploma (Japan), PhD (Japan)</item>
+        <item>MBBS, DGO, FCPS, Fellow Reproductive Medicine and Assisted Reproductive Techniques (KKIV, Singapore)</item>
+        <item>MBBS, DGO, FCPS, Fellow Reproductive Medicine and Assisted Reproductive Techniques (KKIV, Singapore)</item>
+        <item>MBBS, FCPS (Med.), MD (Nephrology)</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, DDV, MCPS, MD (Dermatology), Trained in Laser Surgery (USA)</item>
+        <item>MBBS, MRCP (UK), FRCP, FACC (USA)</item>
+        <item>MBBS, M. Phil(Pathology)FRCP (Edin), D.Med. (Australia), Fellow Immunology (UK)</item>
+    </string-array>
+
+    <string-array name="armforceHospitalDOctorsdesignation">
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Chairman, Department of Gastroenterology</item>
+        <item>Professor</item>
+        <item>Coordinator and Senior Consultant</item>
+        <item>Senior Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Coordinator and Senior Consultant</item>
+        <item>Consultant</item>
+        <item>Ex - Professor and Head, Neuro Surgery , DMCH</item>
+        <item>Professor</item>
+        <item>Assistant Professor</item>
+        <item>Professor and Head</item>
+        <item>Associate Professor and Consultant, Dept. of Surgery</item>
+        <item>Consultant</item>
+        <item>Coordinator and Senior Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Professor and Head, Department of Dermatology </item>
+        <item>Senior Consultant</item>
+        <item>Coordinator and Senior Consultant</item>
+    </string-array>
+
+    <string-array name="armforcedhospitalDoctorsChamber">
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+        <item>AFMC - Armed Forces Medical College</item>
+    </string-array>
+
+    <string-array name="armforcedhospitalDoctorsLocation">
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+    </string-array>
+
+    <string-array name="armforcedhospitalDoctorsPhone">
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+    </string-array>
+
+    <string-array name="greenlifeHospitaldoctorsName">
+        <item>Dr. Abu Sufi Ahmed Amin</item>
+        <item>Dr. Dilip Kumar Roy</item>
+        <item>Professor Dr. Syed Atiqul Haq</item>
+        <item>Dr. A. H. M. Manjurul Islam</item>
+        <item>Dr. Afzal Momin</item>
+        <item>Dr. Kazi Abul Hasan</item>
+        <item>Dr. Latifur Rahman</item>
+        <item>Professor Dr. Md. Shahab Uddin Khan</item>
+        <item>Dr. Mohammad Kamal Hossain</item>
+        <item>Dr. Mohammad Shafiqur Rahman Patwary</item>
+        <item>Lt. Col. Dr. Musa Khan</item>
+        <item>Professor Dr. Nasir Uddin Ahmed</item>
+        <item>Dr. Rahul Mitra</item>
+    </string-array>
+    <string-array name="greenlifeHospitaldoctorsQualification">
+        <item>MBBS, DLO</item>
+        <item>MBBS, FCPS (Medicine), MD (Nephrology), Fellowship In Nephrology (Singapore)</item>
+        <item>MBBS, FRCP, FCPS, MD</item>
+        <item>MBBS, PhD ( Urology, Japan ) </item>
+        <item>MBBS (Dhaka), MD (Neuromedicine) </item>
+        <item>MBBS, MS</item>
+        <item>MBBS, MPH, DDV</item>
+        <item>MBBS, MCPS, MRCP ( Ireland ), MD ( cardiology ), PhD, DSc</item>
+        <item>MBBS, PGT ( Medicine ), CCD ( Diabebtes ), D-Card ( Cardiology )</item>
+        <item>MBBS, FCPS(Medicine), MD(Cardiology), MCPS(Medicine), DSc(Medicine-USA), FESC(Cardiology-Europe), FACC(Cardiology-UAS)</item>
+        <item>MBBS, MS ( Cardiovascular and Thorasic ), FCVS (German ), Fellow Prince Sultan Cardiac Center ( KSA )</item>
+        <item>MBBS, MS ( Cardiovascular and Thorasic ), FCVS (German ), Fellow Prince Sultan Cardiac Center ( KSA )</item>
+        <item>BDS, PGT ( Conservative )</item>
+    </string-array>
+    <string-array name="greenlifeHospitaldoctorsDeesignation">
+        <item>Professor andChairman, Department of ENT - Head and Neck Surgury</item>
+        <item>Associate Professor</item>
+        <item>Professor and Chiarman, Department of Medicine</item>
+        <item>Consutant</item>
+        <item>Asisstant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Professor</item>
+        <item>Consutant</item>
+        <item>Assistant Professor</item>
+        <item>Senior Consutant, Cardiac Department</item>
+        <item>Professor</item>
+        <item>Dental Surgeon</item>
+    </string-array>
+    <string-array name="greenlifeHospitaldoctorsChamber">
+        <item>Green Life Hospital Ltd. Green Road, Dhaka</item>
+        <item>Green Life Hospital Ltd. Green Road, Dhaka</item>
+        <item>Green Life Hospital Ltd. Green Road, Dhaka</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+    </string-array>
+    <string-array name="greenlifeHospitaldoctorsLocation">
+        <item>32, Green Road, Dhaka - 1205</item>
+        <item>32, Green Road, Dhaka - 1205</item>
+        <item>32, Green Road, Dhaka - 1205</item>
+        <item>32, Green Road, Dhaka - 1205</item>
+        <item>32, Green Road, Dhaka - 1205</item>
+        <item>32, Green Road, Dhaka - 1205</item>
+        <item>32, Green Road, Dhaka - 1205</item>
+        <item>32, Green Road, Dhaka - 1205</item>
+        <item>32, Green Road, Dhaka - 1205</item>
+        <item>32, Green Road, Dhaka - 1205</item>
+        <item>32, Green Road, Dhaka - 1205</item>
+        <item>32, Green Road, Dhaka - 1205</item>
+        <item>32, Green Road, Dhaka - 1205</item>
+    </string-array>
+
+    <string-array name="greenHospitaldoctorsPhone">
+        <item>+880-2-9612345, 8628820-1</item>
+        <item>+880-2-9612345, 8628820-1</item>
+        <item>+880-2-9612345, 8628820-1</item>
+        <item>+880-2-9612345, 8628820-1</item>
+        <item>+880-2-9612345, 8628820-1</item>
+        <item>+880-2-9612345, 8628820-1</item>
+        <item>+880-2-9612345, 8628820-1</item>
+        <item>+880-2-9612345, 8628820-1</item>
+        <item>+880-2-9612345, 8628820-1</item>
+        <item>+880-2-9612345, 8628820-1</item>
+        <item>+880-2-9612345, 8628820-1</item>
+        <item>+880-2-9612345, 8628820-1</item>
+        <item>+880-2-9612345, 8628820-1</item>
+    </string-array>
+
+    <string-array name="labaidHospitalDoctorsName">
+        <item>Dr. M M Mortayez Amin</item>
+    </string-array>
+
+    <string-array name="labaidHospitalDoctorsDesignation">
+        <item>Consultant - Infertility and Assisted Reproduction</item>
+    </string-array>
+
+    <string-array name="labaidHospitalDoctorsQualification">
+        <item>MBBS(DMC), MPhil, MMedSci in ART (UK)</item>
+    </string-array>
+
+    <string-array name="labaidHospitalDoctorsChamber">
+        <item>Labaid Hospital, Dhanmondi, Dhaka</item>
+    </string-array>
+
+    <string-array name="labaidHospitalDoctorsLocation">
+        <item>Hospital H # 1, Rd # 4, Dhanmondi, Dhaka - 1205</item>
+    </string-array>
+
+    <string-array name="labaidHospitalDoctorsPhone">
+        <item>+880-2-8610793-8</item>
+    </string-array>
+
+
+    <string-array name="HealthAndHopedoctorDoctorsName">
+        <item>Professor Dr. A. B. M. Yunus</item>
+        <item>Dr. Aminur Rashid</item>
+        <item>Dr. Anup Kumar Saha</item>
+        <item>Dr. Delowar Hossain</item>
+        <item>Dr. Fahmida Zabin</item>
+        <item>Dr. Iffat Ara Samad</item>
+        <item>Dr. Md. Anwarul Karim</item>
+        <item>Dr. Md. Fazle Elahi Milad</item>
+        <item>Dr. Md. Aby Syed</item>
+        <item>Dr. Monnujan begum</item>
+        <item>Dr. Md. Shakhawar Hossain</item>
+        <item>Dr. Sajedur Reza Faruquee</item>
+        <item>Dr. Sarwar Alam</item>
+        <item>Dr. Sarwar Ibne Salam</item>
+    </string-array>
+    <string-array name="HealthAndHopedoctorDoctorsdesignation">
+        <item>Professor</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor,Child Health</item>
+        <item>Consultant</item>
+        <item>Associate Professor</item>
+        <item>Assistant Professor,Child Orthopedic</item>
+    </string-array>
+    <string-array name="HealthAndHopedoctorDoctorsqualification">
+        <item>MBBS,PhD</item>
+        <item>MBBS,PhD(Japan)</item>
+        <item>MBBS,FCPS(Medicine)</item>
+        <item>MBBS,FCPS(ENT)</item>
+        <item>MBBS,FCPS(Gyne And Obs)</item>
+        <item>MBBS,FCPS(Pediatric)</item>
+        <item>FCPS</item>
+        <item>MBBS,MS(Neuro Surgery)</item>
+        <item>MBBS,MS(Neuro Surgery)</item>
+        <item>MBBS,FCPS(Gyne And Obs)</item>
+        <item>MBBS,DEM(BIRDEM)</item>
+        <item>MBBS,MS(Orthopedics)</item>
+        <item>MBBS,DIH(DU)</item>
+        <item>MBBS,MS(Orthopedics)</item>
+    </string-array>
+    <string-array name="HealthAndHopedoctorDoctorschamber">
+        <item>Green Road Clinic</item>
+        <item>Health And Hope Hospital</item>
+        <item>Health And Hope Hospital</item>
+        <item>Health And Hope Hospital</item>
+        <item>Health And Hope Hospital</item>
+        <item>Health And Hope Hospital</item>
+        <item>Health And Hope Hospital</item>
+        <item>Health And Hope Hospital</item>
+        <item>Health And Hope Hospital</item>
+        <item>Health And Hope Hospital</item>
+        <item>Health And Hope Hospital</item>
+        <item>Health And Hope Hospital</item>
+        <item>Health And Hope Hospital</item>
+        <item>Health And Hope Hospital</item>
+    </string-array>
+    <string-array name="HealthAndHopedoctorDoctorsphone">
+        <item>+88065625</item>
+        <item>+880-2-9145786,9137076,01819494530 </item>
+        <item>+880-2-9145786, 9137076, 01819494530</item>
+        <item>+880-2-9145786, 9137076, 01819494530</item>
+        <item>+880-2-9145786, 9137076, 01819494530</item>
+        <item>+880-2-9145786, 9137076, 01819494530</item>
+        <item>+880-2-9145786, 9137076, 01819494530</item>
+        <item>+880-2-9145786, 9137076, 01819494530</item>
+        <item>+880-2-9145786, 9137076, 01819494530</item>
+        <item>+880-2-9145786, 9137076, 01819494530</item>
+        <item>+880-2-9145786, 9137076, 01819494530</item>
+        <item>+880-2-9145786, 9137076, 01819494530</item>
+        <item>+880-2-9145786, 9137076, 01819494530</item>
+        <item>+880-2-9145786, 9137076, 01819494530</item>
+    </string-array>
+    <string-array name="HealthAndHopedoctorDoctorslocation">
+        <item>Green Road ,Dhaka-1205</item>
+        <item>Green Road ,Dhaka-1205</item>
+        <item>Green Road ,Dhaka-1205</item>
+        <item>Green Road ,Dhaka-1205</item>
+        <item>Green Road ,Dhaka-1205</item>
+        <item>Green Road ,Dhaka-1205</item>
+        <item>Green Road ,Dhaka-1205</item>
+        <item>Green Road ,Dhaka-1205</item>
+        <item>Green Road ,Dhaka-1205</item>
+        <item>Green Road ,Dhaka-1205</item>
+        <item>Green Road ,Dhaka-1205</item>
+        <item>Green Road ,Dhaka-1205</item>
+        <item>Green Road ,Dhaka-1205</item>
+        <item>Green Road ,Dhaka-1205</item>
+    </string-array>
+
+
+    <string-array name="japanBangladeshHospiitalDoctorsName">
+
+        <item>Professor Dr. Jonaid Shafiq</item>
+
+    </string-array>
+    <string-array name="japanBangladeshHospiitalDoctorsQualification">
+        <item>MBBS, PhD ( Japan ) </item>
+    </string-array>
+
+    <string-array name="japanBangladeshHospiitalDoctorsDesignation">
+        <item>Professor</item>
+    </string-array>
+
+    <string-array name="japanBangladeshHospiitalDoctorsChamber">
+        <item>Japan - Bangladesh Friendship Hospital (JBFH)</item>
+    </string-array>
+
+    <string-array name="japanBangladeshHospiitalDoctorsLocation">
+        <item>55, Satmasjid Road ( Zigatola Bus Stand ), Dhanmondi, Dhaka - 1209, Bangladesh</item>
+    </string-array>
+
+    <string-array name="japanBangladeshHospiitalDoctorsPhone">
+        <item>+880-2-9672277, 9676161, +880 1711647877 </item>
+    </string-array>
+
+    <string-array name="apolloHospitalDoctorsName">
+        <item>Dr. A.K.M Fazlul Haque</item>
+        <item>Dr. Abdul Mannan Sarker</item>
+        <item>Dr. Abdullah Al Mamun</item>
+        <item>Dr. Abu Sayeed Mohammad Iqba</item>
+        <item>Dr. Alim Akther Bhuiyan</item>
+        <item>Professor Dr. Anisur Rahman</item>
+        <item>Professor Dr. Anisur Rahman</item>
+        <item>Dr. Arun Dodhu Patole</item>
+        <item>Dr. Azfar Uddin Shaikh</item>
+        <item>Dr. abdullah Al Mamun</item>
+        <item>Dr. Golam Mohiuddin Chowdhury</item>
+        <item>Dr. Gulshan Ara</item>
+        <item>Dr. Kazi Hasinur Rahman</item>
+        <item>Professor Dr. Kazi Mesbahuddin lqbal</item>
+        <item>Dr. Krishna Mohan Sahu</item>
+        <item>Dr. Lutful Aziz</item>
+        <item>Dr. M. Ali</item>
+        <item>Dr. M. Quamrul Hassan</item>
+        <item>Dr. M. Quamrul Islam Talukder</item>
+        <item>Dr. Mahmood Hasan</item>
+        <item>Professor Dr. Mathew J. Chandy</item>
+        <item>Dr. Md. Azharul Islam</item>
+        <item>Dr. Md. Hafizur Rahman Ansary</item>
+        <item>Dr. Md. Moarraf Hossen</item>
+        <item>Professor Dr. Md. Moniruzzaman</item>
+        <item>Dr. Md. Muzibur Rahman Bhuiyan</item>
+        <item>Dr. Md. O.F.G. Kibria</item>
+        <item>Dr. Md. Sadiqul Islam</item>
+        <item>Dr. Md. Sadiqul Islam</item>
+        <item>Dr. Md. Sadiqul Islam</item>
+        <item>Professor Dr. Md. Shah Alam</item>
+        <item>Professor Dr. Md. Shahabuddin Talukder</item>
+        <item>Professor Dr. Md. Shahid Karim</item>
+        <item>Dr. Md. Waheeduzzaman</item>
+        <item>Dr. Md. Zulfiqur Haider</item>
+        <item>Dr. Mohammed Fazlul Kabir</item>
+        <item>Professor Dr. Mohammed Istiaque Hossain</item>
+        <item>Dr. Mohammed Mohiuddin Araf</item>
+        <item>Dr. Monowara Begum</item>
+        <item>Dr. Mrinal Kumar Sarker</item>
+        <item>Dr. Nandkumar Katakdhond</item>
+        <item>Dr. Prashant Agrawal</item>
+        <item>Professor Lt. Col. (Retd.) Dr. Q.M. Mahabub Ullah</item>
+        <item>Dr. Ritu Prashant Agrawal</item>
+        <item>Dr. S.M. Qumruz Zaman</item>
+        <item>Dr. Saket Aggarwal</item>
+        <item>Professor Dr. Salim Mohammad Jahangir</item>
+        <item>Dr. Sandip Kumar Dash</item>
+        <item>Dr. Saroj Kant Sinha</item>
+        <item>Dr. Shams Munwar</item>
+        <item>Dr. Sharad Dayadhan Sonawane</item>
+        <item>Dr. Sheeba Khan</item>
+        <item>Dr. Vinod Thampi</item>
+        <item>Dr. Waheed Zaman</item>
+    </string-array>
+
+    <string-array name="apolloHospitalDoctorsQualification">
+        <item>MBBS, FRCS (UK)</item>
+        <item>MBBS, DEM (DU), MD (Endocrinology)</item>
+        <item>MBBS, FCPS (Medicine), MACP ( USA ), FACP</item>
+        <item>MBBS, FCPS, MD, Fellow (Singapore), Neonatal Training in Singapore and Australia</item>
+        <item>MBBS, DTM and H (UK), MD (USA), Post Doctoral Fellowship in Epilepsy and Clinical Neuro-physiology (USA), US Board Certified in Neurology</item>
+        <item>MBBS (DMC), M.Sc (Canada), FCPS (Surgery), FRCS (Glasgow, UK</item>
+        <item>MBBS (DMC), M.Sc (Canada), FCPS (Surgery), FRCS (Glasgow, UK)</item>
+        <item>MBBS, MS, DORL (Mumbai), Fellow A.I.N.OT (Italy)</item>
+        <item>MBBS. MS (DMC), MS (Urology), FSUA (Singapore)</item>
+        <item>MBBS, FCPS (Medicine), MACP ( USA ), FACP</item>
+        <item>BDS, Post Graduate Course (OMS), FCPS (OMS)</item>
+        <item>MBBS, MCPS, MS (Obs./Gynae.), FCPS, Trained in Advanced Laparoscopic Surgery (India)</item>
+        <item>BDS, MS (Phrosthodontics)</item>
+        <item>MBBS, DA, FFARCS (Ireland), FRCA</item>
+        <item>MBBS, MD (Med.), DNB (Nephrology), DM (Nephrology), Fellowship (Nephrology) Canada</item>
+        <item>MBBS, PhD (Japan), FCPS</item>
+        <item>MBBS, MS (Ortho.), Fellow (Sports Medicine), Fellow (Joint Replacement)</item>
+        <item>MBBS, FCPS (Paediatrics)</item>
+        <item>MBBS, FCPS, MD (USA), FCVS (USA), Advanced Fellowship in Cardiovascular Surgery (Mayo Clinic, USA)</item>
+        <item>MBBS, FCPS (Psychiatry)</item>
+        <item>MBBS, MS (Gen. Surgery), M.Ch. (Neurosurgery), MNAMS, FICS, FRSM, FAMS</item>
+        <item>MBBS, FCPS ( Anaesthesia)</item>
+        <item>MBBS, DMRT</item>
+        <item>MBBS, DMRT, FCPS (Radiotherapy), Fellowship Training (India)</item>
+        <item>MBBS, GC (Pathology), MCPS (Clinical Pathology), FCPS (Haematology)</item>
+        <item>MBBS, FCPS (Medicine), MD (Gastroenterology)</item>
+        <item>MBBS, MS (Ortho.)</item>
+        <item>MBBS, FCPS (Medicine) Post Graduate Training in Rheumatology (England)</item>
+        <item>MBBS, FCPS (Medicine), Post Graduate Training in Rheumatology (England)</item>
+        <item>MBBS, FCPS (Medicine), Post Graduate Training in Rheumatology (England)</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, D.Card (DU), FCPS (Medicine)</item>
+        <item>MBBS, FCPS, FICS (USA)</item>
+        <item>MBBS, FCPS (Surgery)</item>
+        <item>MBBS, MS (Cardiothoracic and Vascular Surgery)</item>
+        <item>MBBS, NM Fellow (IAEA, USA)</item>
+        <item>MBBS (DMC), DCH (Scotland), MRCP (UK), SBE (KSA), FRCP (Edin)</item>
+        <item>MBBS (India), MD (AIIMS, India)</item>
+        <item>MBBS, FCPS (BCPS), MS (Obs./Gynae.), <br>Trained in Advanced Laparoscopic Surgery (India)</br></item>
+        <item>MBBS, DGO, FCPS, Fellow Reproductive Medicine and Assisted Reproductive Techniques (KKIV, Singapore)</item>
+        <item>MBBS, MS (Ortho.), SICOT Diploma Visiting Fellow Harvard Shoulder Service, Massachusetts General Hospital, Boston, USA</item>
+        <item>MBBS, MS (Ortho.), DNB (Ortho.), <br>AO Fellow (Germany), SICOT Diploma, ICRETT (USA)</br></item>
+        <item>MBBS, DDV, MCPS, MD, Trained in Laser Surgery (USA)</item>
+        <item>MBBS, MD (Obs./Gynae.)</item>
+        <item>MBBS, MS, M.Ch. (Neurosurgery)</item>
+        <item>MBBS, MS, DNB (ENT)</item>
+        <item>MBBS, FCPS (Anaesthesia)</item>
+        <item>MD (Med.), DNB (Med.), DNB (Neuro.), MNAMS</item>
+        <item>MBBS, MD (Medicine), DM (Gastroenterology)</item>
+        <item>MBBS, MRCP (UK), FRCP (London), D.Card (London)</item>
+        <item>MBBS, MD (Medicine)</item>
+        <item>MBBS, MS (Opthalmology)</item>
+        <item>MBBS, MD, DM (Neuro.), MDHA</item>
+        <item>MBBS, MS, M.Ch. (Uro.), DNB (Uro.), MNAMS</item>
+    </string-array>
+
+    <string-array name="apolloHospitalDoctorsDesignation">
+        <item>Coordinator And Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Coordinator and Senior Consultant</item>
+        <item>Coordinator and Consultant</item>
+        <item>Consultant</item>
+        <item>Coordinator and Senior Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Senior Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Coordinator and Senior Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Senior Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Coordinator and Senior Consultant</item>
+        <item>Senior Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Senior Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Coordinator and Consultant</item>
+        <item>Coordinator and senior Consultant</item>
+        <item>Senior Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Senior Consultant</item>
+        <item>Head, Physical Medicine and Rehabilitation</item>
+        <item>Coordinator and Senior Consultant</item>
+        <item>Coordinator and Senior Consultant</item>
+        <item>Coordinator and Consultan</item>
+        <item>Senior Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Senior Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Coordinator and Senior Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+    </string-array>
+
+    <string-array name="apolloHospitalDoctorsChember">
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+        <item>Apollo Hospitals Dhaka</item>
+    </string-array>
+
+    <string-array name="apolloHospitalDoctorsLocation">
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+        <item>Plot # 81, Block # E, Bashundhara R/A, Dhaka - 1229, Bangladesh</item>
+    </string-array>
+
+    <string-array name="apolloHospitalDoctorsPhone">
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+        <item>+880-2-8401661, Hotline - 10678</item>
+    </string-array>
+
+    <string-array name="uttaraCresentHospitalDoctorsName">
+        <item>Dr. S. M. Rokonuzzaman</item>
+        <item>Dr. K. F. M. Ayaz</item>
+        <item>Prof. Dr. Billal Alam</item>
+        <item>Dr. Sharif Uddin Khan</item>
+        <item>Prof. Dr. Moniruzzaman Bhuiyan</item>
+        <item>Dr. Md. Mosarrof Hossain</item>
+        <item>Dr. Md. A. F. Khabir Uddin Ahmed</item>
+        <item>Dr. Tawfiq Shahriar Huq</item>
+        <item>Dr. Rawnak Jahan Tamanna</item>
+        <item>Dr. Mahbub Iftekhar</item>
+        <item>Dr. Md. Fazle Nur</item>
+        <item>Dr. Md. Shazada Selim</item>
+        <item>Dr. Md. Shahadur Rahman Khan</item>
+    </string-array>
+
+    <string-array name="uttaraCresentHospitalDoctorsQualification">
+        <item>MBBS, FCPS (MED), MD (Gastro Enterology)Specialist In Medicine, Liver and Gastrointestinal Diseases</item>
+        <item>MBBS, M. SC. MD (Internal Medicine)Medicine Specialist</item>
+        <item>MBBS, FCPS, MD, MACP, FACP (USA)</item>
+        <item>MBBS, MD (Neurology), Fellow Neuro Intervention and Stroke (India)Neurology and Medicine Specialist</item>
+        <item>MBBS, MD (Neurology)Neurology and Medicine Specialist</item>
+        <item>MBBS, MSC, MD (Neuro Medicine)Advanced Training in Electro Physiology of Neurology</item>
+        <item>MBBS, MD (Cardiology)Fellow WHO (India), HPSP (Thailand)Trained in Interventional CardiologyCardiac and Medicine Specialist</item>
+        <item>MBBS, D-Card, MD (Card)Cardiac and Medicine Specialist</item>
+        <item>MBBS, MD (Cardiology), FICM (India)Trained and Graduate Diploma in Electro physiology (Australia)Fellowship Training in Cardiac Electro Physiology and Pesing (India)</item>
+        <item>MBBS (SSMC, Dhaka), DEM (D.U.), Member of MACE (USA)Diabetologist and Endocrinologist</item>
+        <item>MBBS, DEM (D.U.), MPH Diabetology and Hormone Specialist</item>
+        <item>MBBS, MD (Endocrinology), SACE (USA)Cardiac and Medicine Specialist</item>
+        <item>MBBS, MCPS (Medicine), FCPS (Medicine)MD (Chest Disease), FCCA (USA)Pulmonologist and Asthma and Medicine Specialist</item>
+    </string-array>
+
+    <string-array name="uttaraCresentHospitalDoctorsDesignation">
+        <item>Associate Professor- Department of Medicine</item>
+        <item>Assistant Professor - Department of Medicine</item>
+        <item>Professor and Principle - Department of Medicine</item>
+        <item>Associate Professor, Neurology</item>
+        <item>Associate Professor, Neurology</item>
+        <item>Associate Professor, Neuro Medicine Department</item>
+        <item>Asst. Professor of Cardiology</item>
+        <item>Asst. Professor of Cardiology</item>
+        <item>Chief Consultant - ICU Unit</item>
+        <item>Diabetologist and Endocrinologist</item>
+        <item>Asst. Professor - Endocrinology Department</item>
+        <item> Asst. Professor - Endocrinology Department</item>
+        <item> Associate Professor- Respiratory Medicine</item>
+    </string-array>
+
+    <string-array name="uttaraCresentHospitalDoctorsChember">
+        <item>Uttara Adhunik Medical College Hospital</item>
+        <item> Dhaka Medical College</item>
+        <item>Sir Solimullah Medical College </item>
+        <item>Dhaka Medical College Hospita</item>
+        <item>B.S.M. Medical University (PG Hospital) </item>
+        <item>Uttara Adhunik Medical College Hospital</item>
+        <item>Uttara Cresent Hospita</item>
+        <item>National Heart Foundation, Mirpur, Dhaka</item>
+        <item>Uttara Cresent Hospital</item>
+        <item>BIRDEM Hospital, Dhaka</item>
+        <item>B. I. H. S. Mirpur, Dhaka</item>
+        <item>B.S.M. Medical University (PG Hospital), Dhaka</item>
+        <item>NIDCH, Mohakhali, Dhaka</item>
+    </string-array>
+
+
+    <string-array name="uttaraCresentHospitalDoctorsLocation">
+        <item>Uttara</item>
+        <item> Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Uttara</item>
+        <item>Uttara</item>
+        <item>Dhaka</item>
+        <item>Uttara</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+        <item>Dhaka</item>
+    </string-array>
+
+
+    <string-array name="uttaraCresentHospitalDoctorsPhone">
+        <item>Visiting Hour: 6:30 - 10:00 pm</item>
+        <item>Visiting Hour: 6:30 - 10:00 pm</item>
+        <item>Visiting Hour: 6:30 - 10:00 pm</item>
+        <item>Visiting Hour: 6:30 - 10:00 pm</item>
+        <item>Visiting Hour: 6:30 - 10:00 pm</item>
+        <item>Visiting Hour: 6:30 - 10:00 pm</item>
+        <item>Visiting Hour: 6:30 - 10:00 pm</item>
+        <item>Visiting Hour: 6:30 - 10:00 pm</item>
+        <item>Visiting Hour: 6:30 - 10:00 pm</item>
+        <item>Visiting Hour: 6:30 - 10:00 pm</item>
+        <item>Visiting Hour: 6:30 - 10:00 pm</item>
+        <item>Visiting Hour: 6:30 - 10:00 pm</item>
+        <item>Visiting Hour: 6:30 - 10:00 pm</item>
+    </string-array>
+
+    <string-array name="centralHospitalDoctorsName">
+        <item>Dr. A B M Shahidul Alam </item>
+        <item>Professor Dr. A. F. M. Selim </item>
+        <item>Dr. A.S.M. Zakaria</item>
+        <item>Dr. Anisur Rhaman </item>
+        <item>Professor Dr. Farhana Dewan</item>
+        <item>	Dr. Fawzia Hossain</item>
+        <item>Professor Major Gen. H. R. Harun</item>
+        <item>Dr. Harisul Hoque</item>
+        <item>Dr. Hasan Masud </item>
+        <item>Dr. Jahanara Rahman </item>
+        <item>Dr. Kamruzzaman Khan </item>
+        <item>Professor Dr. Khan Nizamuddin</item>
+        <item>Dr. Laila Anjumanbanu(Meghla)</item>
+        <item>Dr. Lutfun Nahar</item>
+        <item>Dr. M. A. Afzal Bhuiya</item>
+        <item>Dr. M. A. Malek </item>
+        <item>Dr. M. A. Mannan </item>
+        <item>Professor Dr. M.A. Hashem Bhuiya </item>
+        <item>Professor Dr. Mahbub Anwar</item>
+        <item>Dr. Manash Kumar Goswami</item>
+        <item>Dr. Masuda Begum </item>
+        <item>Professor Dr. Md. Abdullah-Al-Amin</item>
+        <item>Dr. Md. Arifur Rahman</item>
+        <item>Dr. Md. Badrul Alam</item>
+        <item>Professor Dr. Md. Habibur Rahman </item>
+        <item>Professor Dr. Md. Mizanur Rahman </item>
+        <item>Dr. Md. Moniruzzaman </item>
+        <item>Professor Dr. Md. Zahid Hossain </item>
+        <item>Dr. Parvin Akhter </item>
+        <item>Professor Dr. Sabera Khatun </item>
+        <item>Dr. Sajal Majumder</item>
+        <item>Professor Dr. Sameena Chowdhury </item>
+        <item>Dr. Sanjukta Saha</item>
+        <item>Dr. Sehereen J. Siddique</item>
+        <item>Dr. Shahin Akter </item>
+    </string-array>
+
+    <string-array name="centralHospitalDoctorsQualification">
+        <item>MBBS, MCPS, DCH, FCPS</item>
+        <item>MBBS, MD, FCPS , Phd ( London )</item>
+        <item>MBBS, MPH, MD</item>
+        <item>MBBS, DIH, DEM</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, MRCOG (London) DFFP (Glasgow) MS</item>
+        <item>MBBS, FCPS, FRCS ( Glasg)</item>
+        <item>MBBS, MD</item>
+        <item>MBBS, MD</item>
+        <item>MBBS, FCPS, DGO, MCPS</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, FCPS</item>
+        <item>M.B.B.S. ( DMC ); Ph.D ( Dermatology) Nagoya University School of Medicine, Japan.
+            Fellow Dermatologic Laser and Cosmetic Surgery ( Thailand ) Skin, Allergy, VD and Laser Specialist (1st female dermatologist of the country )</item>
+        <item>MBBS, DCH, MRCP</item>
+        <item>MBBS, FRCS</item>
+        <item>MBBS, MRCP ( UK ) , ECFMG ( USA ) , Ex consultant of King Fahad Specialist Hospital, Saudi Arabia</item>
+        <item>MBBS, FCPS, FRCS ( London )</item>
+        <item>MBBS, DTCD, MD, FCCP ( USA ) , FRCP ( Edin )</item>
+        <item>MBBS, MD, DO, MS</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, MCPS, FCPS, FRCS ( Glasg ), FACS ( USA )</item>
+        <item>MBBS, MS</item>
+        <item>MBBS, MD ( Neorology )</item>
+        <item>MBBS, MD, FCPS ( Child ) , WHO Fellow</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, FCPS ( Child ) , MD ( Child ), MD ( Cardiology )</item>
+        <item>MBBS, MD</item>
+        <item>MBBS, FCPS, FICS</item>
+        <item>MBBS, MS</item>
+        <item>MBBS, MCPS, FCPS, FICS, DRH ( UK )</item>
+        <item>MBBS, MS</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, MD</item>
+    </string-array>
+
+    <string-array name="centralHospitalDoctorsDesignation">
+        <item>Chief Consultant and Head, Pediatrics</item>
+        <item>Deputy Director ( Academic )</item>
+        <item>Associate Professo</item>
+        <item>Consultant, Senior, Specialist of Endocrinologist</item>
+        <item>Professor</item>
+        <item>Assistant Professor</item>
+        <item>Professor, Head of Dept. of Urology ( CMH )</item>
+        <item>Assistant Professor</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor </item>
+        <item>Professor</item>
+        <item>Assistant Professor</item>
+        <item>Consultant</item>
+        <item>Assistant Professor</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor</item>
+        <item>Professor</item>
+        <item>Professor</item>
+        <item>Assistant Professor</item>
+        <item>Associate professor, Department of Hematology</item>
+        <item>Professor</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor</item>
+        <item>Professor</item>
+        <item>Professor and Head, Child Neurology</item>
+        <item>Associate Professor</item>
+        <item>Professor</item>
+        <item>Consultant , Medicine</item>
+        <item>Professor, Head of Deparment ( Obs and Gynae)</item>
+        <item>Assistant Professor </item>
+        <item>Professor</item>
+        <item>Associate professor, Department of Gynecology</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor</item>
+    </string-array>
+
+
+    <string-array name="centralHospitalDoctorsChember">
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+        <item>Central Hospital Limited</item>
+    </string-array>
+
+    <string-array name="centralHospitalDoctorsLocation">
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+        <item>House # 2, Road # 5, Green Road , Dhanmondi , Dhaka - 1205</item>
+    </string-array>
+
+    <string-array name="centralHospitalDoctorsPhone">
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+        <item>+880-2-9660015-19, ( Chamber )</item>
+    </string-array>
+
+
+    <string-array name="SprcHospitalDoctorsName">
+        <item>Professor Dr. Quazi Deen Mohammad</item>
+    </string-array>
+
+    <string-array name="SprcHospitalDoctorsQualification">
+        <item>MBBS, FCPS, MD (Neurology)</item>
+    </string-array>
+
+    <string-array name="SprcHospitalDoctorsDesignation">
+        <item>Principal, DMCH</item>
+    </string-array>
+
+    <string-array name="SprcHospitalDoctorsChember">
+        <item>S.P.R.C. and General Hospital</item>
+    </string-array>
+
+    <string-array name="SprcHospitalDoctorsLocation">
+        <item>135, New Eskaton Road, Dhaka-1000, Bangladesh</item>
+    </string-array>
+    <string-array name="SprcHospitalDoctorsPhone">
+        <item>+880-2-9339089, 9342744</item>
+    </string-array>
+
+
+    <string-array name="IslamiBankHospitalDoctorsName">
+        <item>Dr. A.K. Takib Uddin Ahmed</item>
+        <item>Dr. Fahmid-Ur-Rahman</item>
+        <item>Dr. Ferdous Ara banu(Kakoli)</item>
+        <item>Dr. Irin Perveen Alam</item>
+        <item>Dr. Jasim Uddin</item>
+        <item>Dr. M Bahadur Ali Miah</item>
+        <item>Dr. Mahmud Hossain</item>
+        <item>Dr. Mahmudul Haque</item>
+        <item>Dr. Mahmudul Hasan</item>
+        <item>Dr. Mahmudul Hasan</item>
+        <item>Dr. Masuda Khatun</item>
+        <item>Dr. Md. Abdullah-Al-Faruque</item>
+        <item>Professor Dr. Md. Golam Kibria</item>
+        <item>Dr. Md. Golam Mostafa</item>
+        <item>Dr. Md. Harun-Ar-Rashid</item>
+        <item>Dr. Md. Masudul Hasan </item>
+        <item>Dr. Md. Raziul Haque</item>
+        <item>Dr. Md. Shafiqur Rahman</item>
+        <item>Dr. Md. Shahid Uddin</item>
+        <item>Dr. Md. Shirajul Haque</item>
+        <item>Dr. Mohammed Shafi Ullah</item>
+        <item>Zakir Mohd. Zakir Hossain</item>
+        <item>Dr. Nasim Afza</item>
+        <item>Dr. Naznin akter (Liza)</item>
+        <item>Dr.(kapten) Nurjahan Begum</item>
+        <item>Dr. Rafat Nawaz</item>
+        <item>Dr. Rubyia Parvin</item>
+        <item>Dr. S. M Borhan Uddin </item>
+        <item>Dr. Sajjad Abdul Khaleque</item>
+        <item>Dr. Samsul Alam</item>
+        <item>Professor Dr. Syeda Akhter Jahan</item>
+        <item>Dr. Taslima Begum </item>
+        <item>Dr. Tasnim Akter</item>
+        <item>Dr. Towfica Hossain</item>
+    </string-array>
+
+    <string-array name="IslamiBankHospitalDoctorsQualification">
+        <item>MBBS, MD</item>
+        <item>MBBS, MPhil, FCPS</item>
+        <item>MBBS, FCPS ( Gyen. and Obs. )</item>
+        <item>MBBS, FCPS ( Gyen. and Obs. ), M,S</item>
+        <item>MBBS, DO, FICO ( UK ) , PhD ( London )</item>
+        <item>MBBS, MD</item>
+        <item>MBBS, DCH</item>
+        <item>MBBS, MD</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, FCPS ( Ent )</item>
+        <item>MBBS, MD ( Skin and VD )</item>
+        <item>MBBS, MD ( Ped. )</item>
+        <item>B.D.S</item>
+        <item>MBBS, FCPS, MD</item>
+        <item>MBBS, DCH(Dublin)</item>
+        <item>MBBS, FCPS ( Medicine )</item>
+        <item>MBBS, FCPS, MS</item>
+        <item>MBBS, DTCD, MPH</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, MD</item>
+        <item>MBBS, MS, BDS, MCPS, MDRA(USA)</item>
+        <item>MBBS, MS(Plastic Sugery) MS(General Surgery)</item>
+        <item>MBBS, FCPS ( Gyen. and Obs. )</item>
+        <item>B.D.S, P.G.T(Ortho), P.G.T(Prostho)</item>
+        <item>MBBS, FCPS ( Gyen. and Obs. )</item>
+        <item>MBBS, MRCOG(London), FRCOG(London)</item>
+        <item>MBBS, FCPS. MD ( Ped. )</item>
+        <item>MBBS, MS ( Ped. Surgeon )</item>
+        <item>MBBS, FCPS ( Eye )</item>
+        <item>MBBS, MS</item>
+        <item>MBBS, FCPS ( Gyen. and Obs.)</item>
+        <item> MBBS, (Dhaka), MS (Gynae and Obs)</item>
+        <item>MBBS, FCPS ( Gyen. and Obs.)</item>
+        <item>MBBS, FCPS, MS ( Gyen. and Obs.)</item>
+    </string-array>
+
+
+    <string-array name="IslamiBankHospitalDoctorsDesignation">
+        <item>Associated Professor</item>
+        <item>Assistant Professor</item>
+        <item>Resident Surgeon </item>
+        <item>Assistant Professor</item>
+        <item>Consultant</item>
+        <item>Assistant Professor</item>
+        <item>Consultant</item>
+        <item>Assistant Professor</item>
+        <item>Associate Professor</item>
+        <item>Associated Professor </item>
+        <item>Consultant</item>
+        <item>Associated Professor</item>
+        <item>Professor</item>
+        <item>Assistant Professor</item>
+        <item>Specialist</item>
+        <item>MBBS, FCPS ( Medicine )</item>
+        <item>Associate Professor</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Assistant Professor</item>
+        <item>Associate Professor and Head of Department</item>
+        <item>Associate Professor</item>
+        <item>Assistant Professor </item>
+        <item>Consultant</item>
+        <item>Resident Surgeon</item>
+        <item>Associate Professor</item>
+        <item>Consultant</item>
+        <item>Assistant Professor</item>
+        <item>Consultant</item>
+        <item>Assistant Professor</item>
+        <item>Professor and Head, Department Of Gyne. and Obs.</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Assistant Professor</item>
+    </string-array>
+
+
+    <string-array name="IslamiBankHospitalDoctorsChember">
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+        <item>Islami Bank Central Hospital</item>
+    </string-array>
+
+
+    <string-array name="IslamiBankHospitalDoctorsLocation">
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+        <item>30, Anjuman-e-Mofidul Islam Road, Kakrail, Dhaka - 1000</item>
+    </string-array>
+
+    <string-array name="IslamiBankHospitalDoctorsPhone">
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+        <item>+880-2-9355801-2, 9360331-2</item>
+    </string-array>
+
+    <string-array name="ambulenceName">
+        <item>1. Ad-Din Hospital</item>
+        <item>2.Al-Markazul Islami Ambulance Service</item>
+        <item>3. Alif Ambulance</item>
+        <item>4. Anjuman-E-Mufidul Islam</item>
+        <item>5. Apanjon Ambulance Service</item>
+        <item>6. BIRDEM</item>
+        <item>7. CMH (Dhaka)</item>
+        <item>8. Day-Night Ambulance Service</item>
+        <item>9. Dhaka Medical College Hospital</item>
+        <item>10. Green Ambulance Service</item>
+        <item>11. Holy Family Red Crescent Hospital</item>
+        <item>12. ICDDRB (Mohakhali)</item>
+        <item>13. Monowara Hospital (pvt.) Ltd</item>
+        <item>14. National Heart Institute</item>
+        <item>15. Prime General Hospital</item>
+        <item>16. Rafa Ambulance Service</item>
+        <item>17. Red Crescent Society</item>
+        <item>18. Salimullah Medical College</item>
+        <item>19. Shahid Suhrawardi Hospital</item>
+        <item>20. Shefa Ambulance Services</item>
+        <item>21. Shishu Hospital</item>
+        <item>22. South Asian Hospital</item>
+        <item>23. Khaled Ambulance Service</item>
+        <item>24. Air Ambulance</item>
+        <item>24. Square Hospital Ambulance1</item>
+        <item>24. Square Hospital Ambulance2</item>
+        <item>24. Moon Ambulence1</item>
+        <item>24. Moon Ambulence2</item>
+    </string-array>
+
+    <string-array name="ambulencePhn">
+        <item>+88029362929</item>
+        <item>+88029127867</item>
+        <item>+88028117576</item>
+        <item>+88029336611</item>
+        <item>+88029125420</item>
+        <item>+88028616641</item>
+        <item>+88029871469</item>
+        <item>+88029123073</item>
+        <item>+8802505025</item>
+        <item>+88029334121</item>
+        <item>+88029113512</item>
+        <item>+88028811751</item>
+        <item>+88028318135</item>
+        <item>+88029122560</item>
+        <item>+88029562267</item>
+        <item>+88029110663</item>
+        <item>+88029358799</item>
+        <item>+88027319002</item>
+        <item>+88029130800</item>
+        <item>+88028110864</item>
+        <item>+88028114571</item>
+        <item>+88029665852</item>
+        <item>01933246577</item>
+        <item>01700619942</item>
+        <item>01713377773</item>
+        <item>01713377774</item>
+        <item>01794090798</item>
+        <item>01949431045</item>
+    </string-array>
+
+
+    <string-array name="adavanceEyeCenterDoctorsName">
+        <item>Dr. Ahsanul Haq Amin</item>
+        <item>Dr. Md. Abdul Aziz</item>
+        <item>Dr. Md. Kamrul Islam </item>
+        <item>Dr. Sayeda Sabrina Sultana</item>
+        <item>Dr. Shirin Akhter</item>
+    </string-array>
+
+    <string-array name="adavanceEyeCenterDoctorsDesignation">
+
+        <item>Assistant Professor</item>
+        <item>MBBS, FCPS</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+
+    </string-array>
+
+    <string-array name="adavanceEyeCenterDoctorsQualification">
+        <item>MBBS, MD</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, FCPS, D.Card, CCD</item>
+        <item>BDS, PGT ( BSMMU )</item>
+        <item>MBBS, FCPS ( Gyne. and Obs. )</item>
+    </string-array>
+
+    <string-array name="adavanceEyeCenterDoctorsChamber">
+
+        <item>Advanced Eye Center</item>
+        <item>Advanced Eye Center</item>
+        <item>Advanced Eye Center</item>
+        <item>Advanced Eye Center</item>
+        <item>Advanced Eye Center</item>
+
+    </string-array>
+
+    <string-array name="adavanceEyeCenterDoctorsLocation">
+
+        <item>House # 75, Satmasjid Road, Sankar, Bus Stand , Dhanmondi, Dhaka </item>
+        <item>House # 75, Satmasjid Road, Sankar, Bus Stand , Dhanmondi, Dhaka </item>
+        <item>House # 75, Satmasjid Road, Sankar, Bus Stand , Dhanmondi, Dhaka </item>
+        <item>House # 75, Satmasjid Road, Sankar, Bus Stand , Dhanmondi, Dhaka </item>
+        <item>House # 75, Satmasjid Road, Sankar, Bus Stand , Dhanmondi, Dhaka </item>
+
+    </string-array>
+
+    <string-array name="adavanceEyeCenterDoctorsPhone">
+
+        <item>+880-2-9115602, 9131207, 8158607</item>
+        <item>+880-2-9115602, 9131207, 8158607</item>
+        <item>+880-2-9115602, 9131207, 8158607</item>
+        <item>+880-2-9115602, 9131207, 8158607</item>
+        <item>+880-2-9115602, 9131207, 8158607</item>
+
+    </string-array>
+
+    <string-array name="ahmedMedicalCenterDoctorsName">
+        <item>Professor Dr. A.H.M. Enayet Hussain </item>
+        <item>Dr. A.K.M. Nazmus Saquib</item>
+        <item>Dr. Khaer Ahmed Chowdhury</item>
+        <item>Dr. Md. Mustafizur Rahman ( Ranju ) </item>
+        <item>Dr. Md. Shahidul Islam </item>
+        <item>Dr. Rezaul Murshed</item>
+    </string-array>
+
+    <string-array name="ahmedMedicalCenterDoctorsDesignation">
+        <item>Professor</item>
+        <item>Consultnat, Eye Plastic Surgery, Eye Cancer Specialist</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Consultant</item>
+        <item>Consultant and Directory </item>
+    </string-array>
+
+    <string-array name="ahmedMedicalCenterDoctorsQualification">
+        <item>MBBS, FRCS ( Glasg. Uk ), FCPS ( BD ), ICO ( UK )</item>
+        <item>MBBS, D.Ophth ( DU ), FEPS ( India ), FRSH ( London ), MAMS ( Viena )</item>
+        <item>MBBS, MS ( Eye )</item>
+        <item>MBBS, MS ( Opthalmology ) </item>
+        <item>MBBS, DO, FCPS ( Eye )</item>
+        <item>MBBS, DO </item>
+    </string-array>
+
+    <string-array name="ahmedMedicalCenterDoctorsChember">
+        <item>Ahmed Medical Center</item>
+        <item>Ahmed Medical Center</item>
+        <item>Ahmed Medical Center</item>
+        <item>Ahmed Medical Center</item>
+        <item>Ahmed Medical Center</item>
+        <item>Ahmed Medical Center</item>
+    </string-array>
+
+    <string-array name="ahmedMedicalCenterDoctorsLocation">
+        <item>House # 71, Road # 15/A, Sankar Bustand , Dhanmondi, R/A, Dhaka - 1209, Bangladesh</item>
+        <item>House # 71, Road # 15/A, Sankar Bustand , Dhanmondi, R/A, Dhaka - 1209, Bangladesh</item>
+        <item>House # 71, Road # 15/A, Sankar Bustand , Dhanmondi, R/A, Dhaka - 1209, Bangladesh</item>
+        <item>House # 71, Road # 15/A, Sankar Bustand , Dhanmondi, R/A, Dhaka - 1209, Bangladesh</item>
+        <item>House # 71, Road # 15/A, Sankar Bustand , Dhanmondi, R/A, Dhaka - 1209, Bangladesh</item>
+        <item>House # 71, Road # 15/A, Sankar Bustand , Dhanmondi, R/A, Dhaka - 1209, Bangladesh</item>
+    </string-array>
+
+    <string-array name="ahmedMedicalCenterDoctorsPhone">
+        <item>+880-2-9119738, 8118628</item>
+        <item>+880-2-9119738, 8118628</item>
+        <item>+880-2-9119738, 8118628</item>
+        <item>+880-2-9119738, 8118628</item>
+        <item>+880-2-9119738, 8118628</item>
+        <item>+880-2-9119738, 8118628</item>
+    </string-array>
+
+    <string-array name="ahsaniaMissionHospitalDoctorsName">
+        <item>Lt. Col. Dr. AKM Azizur Rahman </item>
+        <item>Dr. Selina Parvin </item>
+        <item>Brigadier General (Retd) Dr. Syed Fazle Rahim </item>
+    </string-array>
+
+    <string-array name="ahsaniaMissionHospitalDoctorsQualification">
+        <item>MBBS, FCPS </item>
+        <item>MBBS, DGO , FCPS</item>
+        <item>MBBS, MS ( Ortho ) , FICS</item>
+    </string-array>
+
+    <string-array name="ahsaniaMissionHospitalDoctorsDesignation">
+        <item>Consultant</item>
+        <item>Surgeon</item>
+        <item>Director</item>
+    </string-array>
+
+    <string-array name="ahsaniaMissionHospitalDoctorsChamber">
+        <item>Ahsania Mission Cancer and General Hospital</item>
+        <item>Ahsania Mission Cancer and General Hospital</item>
+        <item>Ahsania Mission Cancer and General Hospital</item>
+    </string-array>
+
+
+    <string-array name="ahsaniaMissionHospitalDoctorsLocation">
+        <item>Plot: M -1/C, Section - 14, Mirpur, Dhaka - 1206</item>
+        <item>Plot: M -1/C, Section - 14, Mirpur, Dhaka - 1206</item>
+        <item>Plot: M -1/C, Section - 14, Mirpur, Dhaka - 1206</item>
+    </string-array>
+
+    <string-array name="ahsaniaMissionHospitalDoctorsPhonr">
+        <item>+880-2-9008919, 8051618, 01819215235</item>
+        <item>+880-2-9008919, 8051618, 01819215235</item>
+        <item>+880-2-9008919, 8051618, 01819215235</item>
+    </string-array>
+
+
+    <string-array name="aichiHospitalDoctoName">
+        <item>Dr. Moazzem Hossain</item>
+        <item>Professor Dr. M S Alam</item>
+        <item>Dr. Jamshed Alam</item>
+        <item>Dr.Khaliquzzaman</item>
+        <item>Prof. Dr. Md. Shelim Bhuiyan</item>
+        <item>Dr. Moazzem Hossain</item>
+        <item>Dr. Sultana Nasrin Ferdous</item>
+        <item>Dr. Taufiqul Haque</item>
+        <item>Dr. Md. Ruhul Quddus</item>
+        <item>Dr. Md. Humayun Kabir Khan</item>
+    </string-array>
+
+    <string-array name="aichiHospitalDoctorsQualification">
+        <item>MBBS (Dhaka), PhD (Japan), STPS (England)</item>
+        <item>MBBS, DCH, MD (Pediatric),Fellow FIMC, CMC, Madras, India</item>
+        <item>MBBS, BCS (Health),FCPS (Child Health), MD (Child Health)</item>
+        <item>MBBS.DCH(Ireland)</item>
+        <item>MBBS (Dhaka), FCPS (Surgery)</item>
+        <item>MBBS (Dhaka), PhD (Japan), STPS (England)</item>
+        <item>MBBS, MS (General Surgery)</item>
+        <item>MBBS, FCPS (Surgery), MRCS (England)</item>
+        <item>MBBS, FCPS (Surgery), MS (Uro) Thesis Part</item>
+        <item>MBBS (Dhaka), MS (Paed)</item>
+    </string-array>
+
+    <string-array name="aichiHospitalDoctorsDesignation">
+        <item>Associate Professor</item>
+        <item>Professor and Head, Department of Child Health</item>
+        <item>Consultant, Sadar Hospital, Narsingdi</item>
+        <item>Consultant, Aichi Hospital Ltd.</item>
+        <item>Retired Professor of Surgery</item>
+        <item>Associate Professor</item>
+        <item>Associate Professor</item>
+        <item>Assistant Professor of Surgery</item>
+        <item>Consultant Surgery</item>
+        <item>Consultant, Aichi Hospital Ltd.</item>
+    </string-array>
+
+    <string-array name="aichiHospitalDoctorsChamber">
+        <item>Aichi Hospital Ltd.</item>
+        <item>Aichi Hospital Ltd.</item>
+        <item>Aichi Hospital Ltd.</item>
+        <item>Aichi Hospital Ltd.</item>
+        <item>Aichi Hospital Ltd.</item>
+        <item>Aichi Hospital Ltd.</item>
+        <item>Aichi Hospital Ltd.</item>
+        <item>Aichi Hospital Ltd.</item>
+        <item>Aichi Hospital Ltd.</item>
+        <item>Aichi Hospital Ltd.</item>
+    </string-array>
+
+    <string-array name="aichiHospitalDoctorsLocation">
+        <item>House # 13, Eshakha Avenue, Sector # 6, Uttara, Dhaka, Bangladesh</item>
+        <item>House # 13, Eshakha Avenue, Sector # 6, Uttara, Dhaka, Bangladesh</item>
+        <item>House # 13, Eshakha Avenue, Sector # 6, Uttara, Dhaka, Bangladesh</item>
+        <item>House # 13, Eshakha Avenue, Sector # 6, Uttara, Dhaka, Bangladesh</item>
+        <item>House # 13, Eshakha Avenue, Sector # 6, Uttara, Dhaka, Bangladesh</item>
+        <item>House # 13, Eshakha Avenue, Sector # 6, Uttara, Dhaka, Bangladesh</item>
+        <item>House # 13, Eshakha Avenue, Sector # 6, Uttara, Dhaka, Bangladesh</item>
+        <item>House # 13, Eshakha Avenue, Sector # 6, Uttara, Dhaka, Bangladesh</item>
+        <item>House # 13, Eshakha Avenue, Sector # 6, Uttara, Dhaka, Bangladesh</item>
+        <item>House # 13, Eshakha Avenue, Sector # 6, Uttara, Dhaka, Bangladesh</item>
+    </string-array>
+
+    <string-array name="aichiHospitalDoctorsPhone">
+        <item>(+88) 01744 463766-8, 01748 488559</item>
+        <item>(+88) 01744 463766-8, 01748 488559</item>
+        <item>(+88) 01744 463766-8, 01748 488559</item>
+        <item>(+88) 01744 463766-8, 01748 488559</item>
+        <item>(+88) 01744 463766-8, 01748 488559</item>
+        <item>(+88) 01744 463766-8, 01748 488559</item>
+        <item>(+88) 01744 463766-8, 01748 488559</item>
+        <item>(+88) 01744 463766-8, 01748 488559</item>
+        <item>(+88) 01744 463766-8, 01748 488559</item>
+        <item>(+88) 01744 463766-8, 01748 488559</item>
+    </string-array>
+
+    <string-array name="alhelalHospitaalDoctorsName">
+        <item>Dr. A. H. M. Manjurul Islam</item>
+        <item>Dr. Afzal Momin</item>
+        <item>Dr. Kazi Abul Hasan</item>
+        <item>Dr. Latifur Rahman</item>
+        <item>Professor Dr. Md. Shahab Uddin Khan</item>
+        <item>Dr. Mohammad Kamal Hossain </item>
+        <item>Dr. Mohammad Shafiqur Rahman Patwary </item>
+        <item>Lt. Col. Dr. Musa Khan </item>
+        <item>Professor Dr. Nasir Uddin Ahmed</item>
+        <item>Dr. Rahul Mitra</item>
+        <item>Dr. S. M. Nasir Mahmud</item>
+        <item>Dr. Shaheen Akter</item>
+        <item>Dr. Zahanara</item>
+    </string-array>
+
+    <string-array name="alhelalHospitaalDoctorsQualification">
+        <item>MBBS, PhD ( Urology, Japan)</item>
+        <item> MBBS (Dhaka),MD (Neuromedicine)</item>
+        <item>MBBS, MS</item>
+        <item>MBBS, MPH, DDV</item>
+        <item>MBBS, MCPS, MRCP ( Ireland ),MD(cardiology),PhD,DSc</item>
+        <item>MBBS, PGT ( Medicine ), CCD ( Diabebtes ), D-Card ( Cardiology )</item>
+        <item>MBBS, FCPS(Medicine), MD(Cardiology), MCPS(Medicine), DSc(Medicine-USA), FESC(Cardiology-Europe), FACC(Cardiology-UAS)</item>
+        <item>MBBS, MS ( Cardiovascular and Thorasic ), FCVS (German ), Fellow Prince Sultan Cardiac Center(KSA)</item>
+        <item>MBBS, MS ( Cardiovascular-Thorasic ), FICS ( USA), Fellow Who (Singapore,India)</item>
+        <item>BDS, PGT ( Conservative )</item>
+        <item>MBBS, MS ( Orhtopedics ) </item>
+        <item>MBBS, MD ( Child ), FCPS(Neonatal)</item>
+        <item>MBBS, DGO, FCPS (Gyne and Obs.)</item>
+    </string-array>
+
+    <string-array name="alhelalHospitaalDoctorsDesignation">
+        <item>Consutant</item>
+        <item>Asisstant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Assistant Professor</item>
+        <item>Professor</item>
+        <item>Consutant</item>
+        <item>Assistant Professor</item>
+        <item>Senior Consutant, Cardiac Department</item>
+        <item>Cardiovascular and Thoracic Surgeon</item>
+        <item>Dental Surgeon</item>
+        <item>Consultant</item>
+        <item>Consutlat and Head, Department of Neonatal Intensive Care Unit</item>
+        <item>Consutant</item>
+    </string-array>
+
+    <string-array name="alhelalHospitalDoctorsChamber">
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+        <item>Al-Helal Specialized Hospital Ltd.</item>
+    </string-array>
+
+    <string-array name="alhelalHospitalDoctorsLocation">
+        <item>150, Rokeya Sarani Porbata Mirpur - 10, Dhaka - 1216, Bangladesh</item>
+        <item>150, Rokeya Sarani Porbata Mirpur - 10, Dhaka - 1216, Bangladesh</item>
+        <item>150, Rokeya Sarani Porbata Mirpur - 10, Dhaka - 1216, Bangladesh</item>
+        <item>150, Rokeya Sarani Porbata Mirpur - 10, Dhaka - 1216, Bangladesh</item>
+        <item>150, Rokeya Sarani Porbata Mirpur - 10, Dhaka - 1216, Bangladesh</item>
+        <item>150, Rokeya Sarani Porbata Mirpur - 10, Dhaka - 1216, Bangladesh</item>
+        <item>150, Rokeya Sarani Porbata Mirpur - 10, Dhaka - 1216, Bangladesh</item>
+        <item>150, Rokeya Sarani Porbata Mirpur - 10, Dhaka - 1216, Bangladesh</item>
+        <item>150, Rokeya Sarani Porbata Mirpur - 10, Dhaka - 1216, Bangladesh</item>
+        <item>150, Rokeya Sarani Porbata Mirpur - 10, Dhaka - 1216, Bangladesh</item>
+        <item>150, Rokeya Sarani Porbata Mirpur - 10, Dhaka - 1216, Bangladesh</item>
+        <item>150, Rokeya Sarani Porbata Mirpur - 10, Dhaka - 1216, Bangladesh</item>
+        <item>150, Rokeya Sarani Porbata Mirpur - 10, Dhaka - 1216, Bangladesh</item>
+    </string-array>
+
+    <string-array name="alhelalHospitalDoctorsPhn">
+        <item>	+880-2-9008181, 9006820, 8058782, 8053481</item>
+        <item>	+880-2-9008181, 9006820, 8058782, 8053481</item>
+        <item>	+880-2-9008181, 9006820, 8058782, 8053481</item>
+        <item>	+880-2-9008181, 9006820, 8058782, 8053481</item>
+        <item>	+880-2-9008181, 9006820, 8058782, 8053481</item>
+        <item>	+880-2-9008181, 9006820, 8058782, 8053481</item>
+        <item>	+880-2-9008181, 9006820, 8058782, 8053481</item>
+        <item>	+880-2-9008181, 9006820, 8058782, 8053481</item>
+        <item>	+880-2-9008181, 9006820, 8058782, 8053481</item>
+        <item>	+880-2-9008181, 9006820, 8058782, 8053481</item>
+        <item>	+880-2-9008181, 9006820, 8058782, 8053481</item>
+        <item>	+880-2-9008181, 9006820, 8058782, 8053481</item>
+        <item>	+880-2-9008181, 9006820, 8058782, 8053481</item>
+    </string-array>
+
+
+    <string-array name="unitedHospitalDOctorsName">
+        <item>Professor Dr. Abdullah A. Harron</item>
+        <item>Dr. Abu Sayeed M. M. Rahman</item>
+        <item>Dr. Adnan Yusuf Chowdhury</item>
+        <item>Dr. Afsana Begum </item>
+        <item>Dr. Aminul Hasan</item>
+        <item>Dr. Bishnu Pada Das</item>
+        <item>Professor Dr. Brig.Gen. M. Nurul Amin</item>
+        <item>Dr. Chowdhury Md. Haider Ali</item>
+        <item>Dr. Farhana Anam</item>
+        <item>Dr. Fatema Begum</item>
+        <item>Dr. Fowoz hussain</item>
+        <item>Dr. G M Mokbul Hossain </item>
+        <item>Dr. Golam Haider Rasul</item>
+        <item>Dr. Hifzur Rahman Choudhury</item>
+        <item>Dr. Jahangir Kabir</item>
+        <item>Dr. Jahangir Miah </item>
+        <item>Dr. Kaisar Nasrullah Khan</item>
+        <item>Dr. Kanuj Kumar Barman</item>
+        <item>Dr. Khurshid Alam </item>
+        <item>Dr. M. Zahid Hasan </item>
+        <item>Dr. Md. Abdul Mabin</item>
+        <item>Dr. Md. Delwar Hossain </item>
+        <item>Dr. Md. Ehteshamul Hoque</item>
+        <item>Dr. Md. Maniruzzaman</item>
+        <item>Dr. Md. Mozammel Haque</item>
+        <item>Professor Md. Omar Ali </item>
+        <item>Dr. Md. Rafiqul Islam </item>
+        <item>Dr. Md. Ruhul Quddus</item>
+        <item>Dr. Md. Tarek Alam </item>
+        <item>Professor Dr. Momenuzzaman</item>
+        <item>Dr. Moral Nazrul Islam </item>
+        <item>Professor Dr. Mujibul Haque Mollah</item>
+        <item>Dr. Mustaque Ahmed </item>
+        <item>Dr. Nargis Ara Begum </item>
+        <item>Professor Dr. Nurul Islam </item>
+        <item>Dr. Nusrat Zaman </item>
+        <item>Dr. Pradip R. Saha</item>
+        <item>Professor Dr. Prodip Kumar Biswas</item>
+        <item>Dr. Rezoana Rima</item>
+        <item>Professor Dr. Selim Shakur </item>
+        <item>Professor Dr. Shah Ataur Rahman </item>
+        <item>Dr. Suraiya Noor </item>
+        <item>Dr. Syed Sayed Ahmed</item>
+        <item>Dr. Tasmia Tahmid</item>
+    </string-array>
+
+
+    <string-array name="unitedHospitalDOctorsQualification">
+        <item>FRCS ( Gasgow ) , FCPS</item>
+        <item>MBBS, FRCS ( Edin ) , FRCS ( Glasgow )</item>
+        <item>MBBS, MCPS, MD ( Chest Diseases )</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, D.Ortho</item>
+        <item>MBBS, DDV, DD, MD, FCPS, FRCP ( Glasgow) , FAAD( USA)</item>
+        <item>MBBS, DCH ( Dublin ) , DCH, RCPS ( Ireland ), MD ( Ped. )</item>
+        <item>MBBS, CCU, JUREI ( USA )</item>
+        <item>MBBS, FCPS ( Medicine ) , MD ( Card)</item>
+        <item>MBBS, MD </item>
+        <item>MBBS, MS ( CVTS )</item>
+        <item>FCPS, FRCH (Glasgo)</item>
+        <item>MBBS, DLO, FICS</item>
+        <item>MBBS, MS(CTS)</item>
+        <item>MBBS, FRCS</item>
+        <item>MBBS, MD( card ) , FCPS ( Medicine )</item>
+        <item>MBBS, M.Sc, MPH, MD ( Neorology ), ASEPA fellow in Eplieptology ( SCTIMST, India )</item>
+        <item>MBBS, FCPS ( Eye), MS ( Eye)</item>
+        <item>MBBS, MS ( Urology )</item>
+        <item>MBBS, DSS ( Vienna )</item>
+        <item>MBBS, FCPS ( ENT) </item>
+        <item>MBBS, M.Phil ( Radiotheraphy )</item>
+        <item>MBBS, MD ( Anaesthesia )</item>
+        <item>MBBS, PhD</item>
+        <item>MBBS,FCPS,FICS(USA),WHO Fellowship in Laparoscopic and Endoscopic Surgery(Thailand)</item>
+        <item>MBBS, DTCD, FCCP ( USA ) , FKIT ( Korea )</item>
+        <item>MBBS, MPH ( IH ), FCGP</item>
+        <item>MBBS, MD ( USA )</item>
+        <item>MBBS, D-Card, MD-Card</item>
+        <item>MBBS, DD(Singapore), DHRS, FICD(USA)</item>
+        <item>MBBS, MRCP, FRCS ( Edin ), FRCP ( London ), Fellow Nephrology ( UK )</item>
+        <item>MBBS, DRM ( Geneva )</item>
+        <item>MBBS, FCPS ( Ped ) , MD ( Neonatology )</item>
+        <item>MBBS, MRCP ( UK ) , FRCP (Edin)</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, FCPS</item>
+        <item>MBBS, DLO</item>
+        <item>MBBS, FCPS (Pediatric)</item>
+        <item>FRCPCH ( UK ),FRCP( London ),FRCP( Edin ), FRCP( Glasgow ),MRCP( UK ),DCH( Glasgow),DCH(Edin)</item>
+        <item>PMBBS, Ph D ( Japan ) </item>
+        <item>MBBS, DCH</item>
+        <item>MBBS, FRCS ( UK ) </item>
+        <item>MBBS, MRCS ( Edin )</item>
+    </string-array>
+
+
+    <string-array name="unitedHospitalDOctorsDesignation">
+        <item>Professor</item>
+        <item>Consultant</item>
+        <item>Consultant , Visiting</item>
+        <item>Specialist</item>
+        <item>Chief</item>
+        <item>Specialist</item>
+        <item>Professor</item>
+        <item>Consultant</item>
+        <item>IVF-ICSI Specialist</item>
+        <item>Consultant</item>
+        <item>Specialist , Gastroenterology and Liver Disease</item>
+        <item>Consultant , Visiting</item>
+        <item>Consultant</item>
+        <item>Dr. Hifzur Rahman Choudhury</item>
+        <item>Surgeon</item>
+        <item>Director</item>
+        <item>Consultant</item>
+        <item>Consultant, Visiting</item>
+        <item>Consultant </item>
+        <item>Consultant, Visiting</item>
+        <item>Consultant, Visiting</item>
+        <item>Consultant Surgeon</item>
+        <item>Consultant ( Visiting )</item>
+        <item>Consultant and Chief of ICU </item>
+        <item>Consultant</item>
+        <item>Consultant, Visiting</item>
+        <item>Consultant</item>
+        <item>IVF-ICSI-Specialist</item>
+        <item>Consultant, Visiting</item>
+        <item>Chief Consultant, Cardiology</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Director</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Consultant</item>
+        <item>Professor</item>
+        <item>Consultant</item>
+        <item>Consultant and Head of Department of Pediatrics</item>
+        <item>Professor</item>
+        <item>Associate Consultant</item>
+        <item>Consultant , Director - Neuro Center</item>
+        <item>Specialist, Visiting</item>
+    </string-array>
+
+    <string-array name="unitedHospitaldoctorsChamber">
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+        <item>United Hospital Limited</item>
+    </string-array>
+
+    <string-array name="unitedHospitalDoctorsLocation">
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+        <item>Plot # 15, Road # 71, Gulshan, Dhaka - 1217, Bangladesh</item>
+    </string-array>
+
+    <string-array name="unitedHospitalDoctorsPhone">
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+        <item>+880-2-8836000, 8836444</item>
+    </string-array>
+
+    <string-array name="allDoctorsName">
+        <item>Professor Dr. Fazlul Hoque</item>
+        <item>Professor Dr. Sheikh Nesaruddin Ahmed</item>
+        <item>Professor Dr. Md. Fazlul Hoque</item>
+        <item>Professor Dr. Syed Atiqul Haq</item>
+        <item>Professor Dr. H A M Nazmul Ahsan</item>
+        <item>Professor Dr. Ferdous Ara J. Janan</item>
+        <item>Professor Dr. (Rtd) N.I. Khan</item>
+        <item>Professor Dr. Mirza Mohammad Hiron</item>
+        <item>Professor Dr. A.B.M Abullah</item>
+        <item>Prof. Dr. Paritosh Kumar Baral</item>
+        <item>Professor Dr. Md. Johurul Haque</item>
+        <item>Professor Dr. ( Major Retd. ) Md. Julhas Uddin</item>
+        <item>Professor Dr. Kamal Sayeed Ahmed Chowdhury</item>
+        <item>Professor Dr. A.K.M. Rafique Uddin</item>
+        <item>Professor Dr. Abul Kashem Khandaker</item>
+        <item>Professor Dr. Ataur Rahman Choudhury</item>
+        <item>Professor Dr. Md. Abdul Jalil Chowdhury</item>
+        <item>Professor Dr. Manabendra Nath Nag</item>
+        <item>Professor Dr. Lutful Kabir</item>
+        <item>Professor Dr. Kaniz Moula</item>
+    </string-array>
+
+    <string-array name="allDoctorsExpertise">
+        <item>Medicine</item>
+        <item> Medicine</item>
+        <item>Medicine</item>
+        <item>Medicine</item>
+        <item>Medicine</item>
+        <item>Medicine</item>
+        <item>Medicine</item>
+        <item>Medicine and Pulmonology</item>
+        <item>Medicine</item>
+        <item>Medicine</item>
+        <item>Medicine</item>
+        <item>Medicine</item>
+        <item>Medicine</item>
+        <item>Medicine</item>
+        <item>Medicine</item>
+        <item>Medicine</item>
+        <item>Medicine</item>
+        <item>Medicine</item>
+        <item>Medicine</item>
+        <item>Medicine</item>
+    </string-array>
+    <string-array name="allDoctorsPhn">
+        <item>+880167405843</item>
+        <item>+ 88028610793</item>
+        <item>+88028156914</item>
+        <item>+88029612345</item>
+        <item>+88029669480</item>
+        <item>+88029111911</item>
+        <item> +88028318135</item>
+        <item>+88029126625</item>
+        <item>+880296773496</item>
+        <item>+88028143312</item>
+        <item>+88029015122-23</item>
+        <item>+88028835981</item>
+        <item>+88028156914</item>
+        <item>+88029669480</item>
+        <item>+88029350383</item>
+        <item>+88028618262</item>
+        <item>+88029676356</item>
+        <item>+88029669480</item>
+        <item>+88029126625-6</item>
+        <item>+8808311721</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="shahidsurwahdyhospitalDoctorsName">
+        <item>Assoc. Prof. Dr. Ehsanul Haque Khan</item>
+    </string-array>
+
+    <string-array name="shahidsurwahdyhospitalDoctorsQualification">
+        <item>MBBS, FCPS</item>
+    </string-array>
+
+
+    <string-array name="shahidsurwahdyhospitalDoctorsDesignation">
+        <item>Associate professor, Dept.of Physical Medicine and Rehabilitation</item>
+    </string-array>
+
+    <string-array name="shahidsurwahdyhospitalDoctorsPhone">
+        <item>+88029122560</item>
+    </string-array>
+
+    <string-array name="shahidsurwahdyhospitalDoctorsLocation">
+        <item>Share-bangla-nagar,dhaka</item>
+    </string-array>
+
+    <string-array name="shahidsurwahdyhospitalDoctorsChamber">
+        <item>Shahid Suhrawardy Medical College</item>
+    </string-array>
+
+    <string-array name="allHospitalsName">
+        <item>Al Ashrif General Hospital, Uttara, Dhaka</item>
+        <item>Ad-Din Hospital, Moghbazar, Dhaka</item>
+        <item>Ahmed Medical Centre, Dhanmondi, Dhaka</item>
+        <item>Anjuman-E-Mofidul Islam, Dhaka</item>
+        <item>Al-Baraka Kidny Hospital, Dhaka</item>
+        <item>Al-Biruni Hospital, Shyamoli, Dhaka</item>
+        <item>Al-Enyet Adhunik Hospital</item>
+        <item>Al-Fateh Medical Services Pvt. Ltd., Farmagate over bridge east side.</item>
+        <item>Al Helal Specialized Hospital</item>
+        <item>Al Jabel-E-Nur Heart Ltd., Dhanmondi, Dhaka</item>
+        <item>Al-Manar Hospital, Lalmatia, Dhaka</item>
+        <item>Al-Markajul Islamic Hospital, Mohammadpur, Dhaka</item>
+        <item>Al-Madina General Hospital Pvt. Ltd., Shamoli, Dhaka</item>
+        <item>Al-Maghraby Eye Hospital</item>
+        <item>Al-Rajhi Hospital(PVT.)Ltd., Farmgate, Dhaka</item>
+        <item>Al-Mohite General Hospital and Diagnostic Centre, Shamoli, Dhaka</item>
+        <item>Ahsania Mission Cancer and General Hospital</item>
+        <item>Apollo Hospitals, Bashundhar, Dhaka</item>
+        <item>Arogya Niketan Hospital Ltd., Malibagh, Dhaka</item>
+        <item>Aysha Memorial Specialized Hospital, Mohakhali, Dhaka</item>
+        <item>Bangladesh Diabetic Society</item>
+        <item>Bangkok Hospital Office, Bangladesh, Tejgaon, Dhaka</item>
+        <item>BARDEM(Shabagh Avenue), Dhaka</item>
+        <item>BDF Hospital, Mohammadpur, Dhaka</item>
+        <item>Bangladesh Diagnostic and Medical Center</item>
+        <item>BNSB Dhaka Eye Hospital, Mirpur, Dhaka</item>
+        <item>Bangladesh Medical College Hospital</item>
+        <item>Bikalpa Dental Clinic</item>
+        <item>BSMMU (PG Hospital)</item>
+        <item>Bangal Nursing Home Ltd., Kalabagan, Dhaka</item>
+        <item>Bangladesh Association For The Aged and Institute of Gerecitric Medicine, Agargaon, Dhaka</item>
+        <item>Bangladesh Heart and Chest Hospital, Dhanmondi, Dhaka</item>
+        <item>Bangladesh Telemedicine Services Ltd., Green Road, Dhanmondi, Dhaka</item>
+        <item>Bari-Llizarov Orthopedic (Bio) Centre, Dhanmondi, Dhaka</item>
+        <item>BDM Hospital, Mohammedpur, Dhaka</item>
+        <item>Bengal Nursing Home Pvt. Ltd., Kalabagan, Dhaka</item>
+        <item>Brain and Maind Hospital Ltd., Farmgate, Dhaka</item>
+        <item>Brighton Hospital Ltd., Hatirpool, Dhaka</item>
+        <item>Bumrungrad Hospital, Banani, Dhaka</item>
+        <item>Cancer Home Cancer and Breast Clinic, Mohakhali, Dhaka</item>
+        <item>Care Madical Center Ltd., Shantinagar, Dhaka</item>
+        <item>Capital Dental Clinic</item>
+        <item>Capital Dental and X-ray Clinic</item>
+        <item>Central Hospital Ltd., Dhanmondi, Dhaka</item>
+        <item>Centre For The Rehabilitation Of The Paralysed (Crp), Savar</item>
+        <item>Chandshi Medical Centre, Banani, Dhaka</item>
+        <item>China Bangla Hospital Pvt. Ltd., Uttara, Dhaka</item>
+        <item>Cholera Hospital (Icddrb), Mohkhali, Dhaka</item>
+        <item>CMH(Cantonment), Dhaka</item>
+        <item>Chritian Medical Hospital, North Baridhara, Dhaka</item>
+        <item>City Dental College and Hospital, Malibagh Chowdhurypara, Dhaka</item>
+        <item>City Hospital Pvt. Ltd., Panthapath, Dhaka</item>
+        <item>Compath Clinic</item>
+        <item>Comfort Diagnostic Centre, Green Road, Dhaka</item>
+        <item>Community Eye Hospital, Elephant Road, Dhaka</item>
+        <item>Community Hospital, Baramaghbazar, Dhaka</item>
+        <item>Community Maternity Hospital, Bijay Nagar, Dhaka</item>
+        <item>Control of Diarrhoeal Disease Programme, Mohammadpur</item>
+        <item>Crescent Gastroliver and General Hospital Ltd., Dhanmondi, Dhaka</item>
+        <item>Crescent Gastroliver and Diagnostic Complex Ltd., Mohammadpur, Dhaka</item>
+        <item>Cosmopolitan</item>
+        <item>Delta Hospitals Ltd</item>
+        <item>Delta Medical Centre Ltd., Dhanmondi, Dhaka</item>
+        <item>Dhaka Monorogh Clinic House, Mirpur, Dhaka</item>
+        <item>Dhaka Medical Collage and Hospital, Polashi, Dhaka</item>
+        <item>Dhaka National Hospital, Dhanmondi, Dhaka</item>
+        <item>Dhaka Shishu (Children) Hospital</item>
+        <item>Dhaka Community Hospital, Moghbazar, Wireless Railgate, Dhaka</item>
+        <item>Dhaka ENT(Ear, Nose, Thot) Hospital, Dhanmondi, Dhaka</item>
+        <item>Dhaka General Hospital Pvt. Ltd, Hatkhola Road, Dhaka</item>
+        <item>Dhaka Orthopaedic Hospital, Shamoli, Dhaka</item>
+        <item>Dhaka Renal Centre and General Hospital, Green Road, Dhaka</item>
+        <item>Dhanmondi Hospital Pvt. Ltd., Dhanmondi, Dhaka</item>
+        <item>Diabetic Association of Bangladesh,</item>
+        <item>Diagnosis, Mohammadpur</item>
+        <item>Dipham R and S Centre</item>
+        <item>Diganta Anti Drug Hospital, Chanduaon R/A, Chittagong</item>
+        <item>Doctors General Hospital, Postogola, Dhaka</item>
+        <item>Dr. Salahuddin Hospital, Dhanmondi, Dhaka</item>
+        <item>Dr. Sultanas Poly Clinic, Shahinbagh, Tajgaon, Dhaka</item>
+        <item>Dushta Shasthya Hospital (D.S.K), Mohammadpur, Dhaka</item>
+        <item>Eden Malticare Hospital, Dhanmondi, Dhaka</item>
+        <item>Endo Dental Clinic</item>
+        <item>Enayet Hospital</item>
+        <item>Farabi General Hospital, Dhanmondi, Dhaka</item>
+        <item>Fashion Eye Hospital Ltd., Moghbazar, Dhaka</item>
+        <item>Faud Al Khatib Hospital, Mirpur, Dhaka</item>
+        <item>Federal Medical College Hospital Ltd., Bangla Motor, Dhaka</item>
+        <item>Fatema Dental Care</item>
+        <item>Flowrence Dental Care</item>
+        <item>Fire Service for Ambulance</item>
+        <item>Gastroliver Hospital nd Research Institute, Panthpath, Dhaka</item>
+        <item>General Hospital Ltd, Dhanmondi, Dhaka</item>
+        <item>General Medical Hospital Pvt. Ltd., Dhanmondi, Dhaka</item>
+        <item>Grain and Mind Hospital Ltd., Farmgate, Dhaka</item>
+        <item>Green Hospital</item>
+        <item>Greenland Hospital, Uttara, Dhaka</item>
+        <item>Gulshan Mother and Child Clinic</item>
+        <item>Harun Eye Foundation and Green Hospital, Dhanmondi, Dhaka</item>
+        <item>Hasnabad hospital Pvt. Ltd, Hasnabad Dhaka</item>
+        <item>Health and Hope Ltd., Panthopath, Dhaka</item>
+        <item>Holy Family Red Crescent Hospital, Eskaton Garden Road, Dhaka</item>
+        <item>Hospital For Infection Disease</item>
+        <item> Heart Hospital</item>
+        <item>Hyfia General Hospital, Shamoli, Dhaka</item>
+        <item>Intimate Dintal Clinic</item>
+        <item>ICDDRB B</item>
+        <item>ICDDRB B (Ambulance)</item>
+        <item>ICDDRB B (Director)</item>
+        <item>ICDDRB B</item>
+        <item>IPGMR</item>
+        <item>Islami Bank Hospital</item>
+        <item>Islami Bank Hospital, Motijheel</item>
+        <item>Islamia Eye Hospital</item>
+        <item>Ibn Sina Clinic</item>
+        <item>Japan-Bangladesh Friendship Hospital</item>
+        <item>Judi Maternity</item>
+        <item>Lake view clinic</item>
+        <item>Lab Aid Cardiac Hospital</item>
+        <item>Lion Eye Hospital</item>
+        <item>Marie Stope Clinic</item>
+        <item>Maternity Hospital (Azimpur)</item>
+        <item>Medi Aid Clinic Ltd</item>
+        <item>Medinova Medical Services Ltd</item>
+        <item>Mirpur General Hospital</item>
+        <item>Mitford Hospital</item>
+        <item>Monowara General Hospital</item>
+        <item>Monowara Hospital (Pvt) Ltd. Siddeshwari Road.</item>
+        <item>Medi Aid Clinic</item>
+        <item>Medistone Clinic</item>
+        <item>Metropolitan Medical Center</item>
+        <item>Mukul Dental Clinic</item>
+        <item>NICVD</item>
+        <item>National Dental Care</item>
+        <item>National medical Institute Hospital</item>
+        <item>Orthopedic Hospital</item>
+        <item>Oroni Dental Clinic (Mirpur)</item>
+        <item>Pangu Hospital</item>
+        <item>Palashy Dental Clinic</item>
+        <item>Popular X-Ray</item>
+        <item>Paltan Poly Clinic</item>
+        <item>Peeriess Diagnostic Treatment Centre</item>
+        <item>Retina Eye Centre (Clinic)</item>
+        <item>Rajdhani Clinic</item>
+        <item>Railway Hospital</item>
+        <item>Retina Eye Centre (Clinic)</item>
+        <item>Rusmono Clinic</item>
+        <item>Ratan Dental Clinic</item>
+        <item>Royal Hospital (Pvt) Ltd.</item>
+        <item>Shajahanpur Dental Clinic</item>
+        <item>Salimullah medical College Hospital</item>
+        <item>Samorita Hospital</item>
+        <item>Shahid Suhrawardi Hospital</item>
+        <item>Shahid Suhrawardi Emergency</item>
+        <item>Shishu Hospital</item>
+        <item>South Asian Hospital</item>
+        <item>Stone Crash Hospital</item>
+        <item>Sclavo Medical Centre</item>
+        <item>Shefa Nursing Home</item>
+        <item>Shumana Clinic</item>
+        <item>SPRC Hospital</item>
+        <item>The Dental Surgeons Ltd.</item>
+        <item>The Eye Clinic</item>
+        <item>Trauma Centre</item>
+        <item>T.B. Hospital (Mohakhali)</item>
+        <item>United Hospital Ltd</item>
+        <item>Uttara Heart Centre Pvt. Ltd.</item>
+        <item>U.S Dental Clinic</item>
+        <item>Women and Children`s Hospital and Research Cintre</item>
+        <item>Yamagata Dhaka Friendship Hospital</item>
+    </string-array>
+
+    <string-array name="allhospitalsphone">
+        <item>+88028952851</item>
+        <item>+88029353391</item>
+        <item>+88028113628</item>
+        <item>+88029336611</item>
+        <item>+88029350884</item>
+        <item>+88028118905</item>
+        <item>+88028631619</item>
+        <item>+88029120615</item>
+        <item>+88029006820</item>
+        <item>+88028117031</item>
+        <item>+88029121387</item>
+        <item>+88029129426</item>
+        <item>+88028118709</item>
+        <item>+88029135451</item>
+        <item>+88028119229</item>
+        <item>+88029113831</item>
+        <item>+88029008919</item>
+        <item>+88028401600</item>
+        <item>+88029333730</item>
+        <item>+88029122689</item>
+        <item>+88029661551</item>
+        <item>+88029139777</item>
+        <item>+88028616641</item>
+        <item>+88028123730</item>
+        <item>+88029335838</item>
+        <item>+88028014476</item>
+        <item>+88029118202</item>
+        <item>+8802606634</item>
+        <item>+88028614001</item>
+        <item>+88029114824</item>
+        <item>+88029129814</item>
+        <item>+88029114266</item>
+        <item>+88028124990</item>
+        <item>+88029120309</item>
+        <item>+88028113481</item>
+        <item>+88028116007</item>
+        <item>+88028120710</item>
+        <item>+88028626901</item>
+        <item>+88028855254</item>
+        <item>+88028815244</item>
+        <item>+88028318827</item>
+        <item>+8802328888</item>
+        <item>+8802501531</item>
+        <item>+88029660015</item>
+        <item>+88027710464</item>
+        <item>+88028821875</item>
+        <item>+88028913674</item>
+        <item>+8802871751</item>
+        <item>+88029110345</item>
+        <item>+88029886298</item>
+        <item>+88028313305</item>
+        <item>+88028623205</item>
+        <item>+88028617844</item>
+        <item>+88028616045</item>
+        <item>+88029660111</item>
+        <item>+880293511901</item>
+        <item>+88029358513</item>
+        <item>+88029114574</item>
+        <item>+88029116851</item>
+        <item>+88029117524</item>
+        <item>+8802601774</item>
+        <item>+88028017151</item>
+        <item>+88028617141</item>
+        <item>+88029005050</item>
+        <item>+88028616744</item>
+        <item>+88028122588</item>
+        <item>+88028114571</item>
+        <item>+88029351190</item>
+        <item>+88028617503</item>
+        <item>+88027115351</item>
+        <item>+88029112684</item>
+        <item>+88028610928</item>
+        <item>+88028628849</item>
+        <item>+88028628849</item>
+        <item>+8802814822</item>
+        <item>+88028117772</item>
+        <item>+8802671393</item>
+        <item>+88027410731</item>
+        <item>+88029122264</item>
+        <item>+88029115244</item>
+        <item>+88028124952</item>
+        <item>+88028150507</item>
+        <item>+8802413851</item>
+        <item>+8802509313</item>
+        <item>+880281222471</item>
+        <item>+88029338986</item>
+        <item>+88029007188</item>
+        <item>+88028613097</item>
+        <item>+88029342033</item>
+        <item>+88029342033</item>
+        <item>+88029555555</item>
+        <item>+88028620960</item>
+        <item>+88029116851</item>
+        <item>+8802861932</item>
+        <item>+88028120710</item>
+        <item>+88028612412</item>
+        <item>+88028912663</item>
+        <item>+88028822738</item>
+        <item>+88028612412</item>
+        <item>+88027419977</item>
+        <item>+88029145786</item>
+        <item>+88028311721</item>
+        <item>+8802602429</item>
+        <item>+88029801874</item>
+        <item>+88029120519</item>
+        <item>+88028612136</item>
+        <item>+88028811751</item>
+        <item>+88028811751</item>
+        <item>+88028823031</item>
+        <item>+8802881175</item>
+        <item>+88028614545</item>
+        <item>+88028317090</item>
+        <item>+88029336421</item>
+        <item>+88029119315</item>
+        <item>+88028119513</item>
+        <item>+88029672277</item>
+        <item>+88029113322</item>
+        <item>+88028814887</item>
+        <item>+88028610793</item>
+        <item>+88029129127</item>
+        <item>+88028821874</item>
+        <item>+8802503329</item>
+        <item>+88028118456</item>
+        <item>+88028620353</item>
+        <item>+88029007873</item>
+        <item>+88027319002</item>
+        <item>+8802239446</item>
+        <item>+88028318135</item>
+        <item>+88029112076</item>
+        <item>+8802405092</item>
+        <item>+88029899209</item>
+        <item>+8802500007</item>
+        <item>+88029122560</item>
+        <item>+8802328888</item>
+        <item>+8802237300</item>
+        <item>+88029112150</item>
+        <item>+88028014760</item>
+        <item>+88029112150</item>
+        <item>+8802501892</item>
+        <item>+8802506089</item>
+        <item>+88029557385</item>
+        <item>+88029550441</item>
+        <item>+88029884588</item>
+        <item>+8802413525</item>
+        <item>+88024093419</item>
+        <item>+88029884588</item>
+        <item>+8802418268</item>
+        <item>+88028614898</item>
+        <item>+88028313096</item>
+        <item>+88029332125</item>
+        <item>+88027319002</item>
+        <item>+88029131901</item>
+        <item>+88029122560</item>
+        <item>+88029130050</item>
+        <item>+88028116061</item>
+        <item>+88028616565</item>
+        <item>+88028618388</item>
+        <item>+88029351404</item>
+        <item>+88029111758</item>
+        <item>+8802245534</item>
+        <item>+88029009089</item>
+        <item>+8802415458</item>
+        <item>+88029333238</item>
+        <item>+8802327257</item>
+        <item>+8802608031</item>
+        <item>+88028836000</item>
+        <item>+88029118138</item>
+        <item>+88028912891</item>
+        <item>+88029115458</item>
+        <item>+88029129354</item>
+    </string-array>
+
+</resources>

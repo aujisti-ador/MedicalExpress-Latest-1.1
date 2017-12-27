@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:background="#455a64"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/ambulenceName"
+        android:text="Ad-Din Hospital"
+        android:textColor="#000"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:layout_marginTop="5dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:background="#ddd"
+        android:padding="5dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:id="@+id/ambulencePhn"
+        android:text="Phone: 9362929"
+        android:padding="5dp"
+        android:background="@drawable/button_shape"
+        android:fontFamily="cursive"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:textColor="#fff"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:textAppearance="?android:textAppearanceLarge"
+        />
+
+
+</LinearLayout>

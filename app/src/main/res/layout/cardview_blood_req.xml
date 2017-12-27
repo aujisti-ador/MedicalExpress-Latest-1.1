@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:elevation="2dp"
+        app:cardCornerRadius="5dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp">
+
+            <TextView
+                android:id="@+id/tv_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Fazle Rabbi Ador"
+                android:textColor="@color/wallet_holo_blue_light"
+                android:textSize="20dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:id="@+id/tv_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dhaka Medical Hospital"
+                android:textSize="15dp"
+                android:textColor="#2421d4"
+                android:drawableLeft="@drawable/location"
+                android:layout_alignTop="@+id/btn_call"
+                android:layout_toStartOf="@+id/tv_bloodGroup" />
+
+            <TextView
+                android:id="@+id/tv_phoneNumber"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/phone_book"
+                android:text="+8801677577052"
+                android:textSize="15dp"
+                android:layout_alignBaseline="@+id/tv_bloodGroup"
+                android:layout_alignBottom="@+id/tv_bloodGroup"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="01/02/2017"
+                android:textSize="15dp"
+                android:id="@+id/tv_date"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:textStyle="italic"/>
+
+
+            <Button
+                android:id="@+id/btn_call"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:background="@drawable/button_shape"
+                android:layout_below="@+id/tv_bloodGroup"
+                android:text="Call"
+                android:textColor="#FFF"
+                android:textAllCaps="false"
+                android:layout_alignParentEnd="true"
+                android:layout_marginTop="12dp" />
+
+            <TextView
+                android:id="@+id/tv_bloodGroup"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:text="AB+"
+                android:textColor="#8f0000"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:layout_below="@+id/tv_date"
+                android:layout_alignParentEnd="true" />
+
+        </RelativeLayout>
+
+
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

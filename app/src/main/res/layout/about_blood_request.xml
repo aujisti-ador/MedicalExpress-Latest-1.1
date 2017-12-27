@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name"
+        android:layout_gravity="center"
+        android:textColor="#ef0909"
+        android:textSize="20dp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Contact Name"
+        android:layout_gravity="center"
+        android:textColor="#f0080808"
+        android:textSize="15dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-----------------------------------------------"
+        android:layout_gravity="center"
+        android:textColor="#f0080808"
+        android:textSize="15dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Blood Group"
+        android:layout_gravity="center"
+        android:textColor="#ef0909"
+        android:textSize="20dp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter Required Blood Group"
+        android:layout_gravity="center"
+        android:textColor="#f0080808"
+        android:textSize="15dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-----------------------------------------------"
+        android:layout_gravity="center"
+        android:textColor="#f0080808"
+        android:textSize="15dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Place"
+        android:layout_gravity="center"
+        android:textColor="#ef0909"
+        android:textSize="20dp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Place Info with Hospital/Clinic location name."
+        android:layout_gravity="center"
+        android:textColor="#f0080808"
+        android:textSize="15dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-----------------------------------------------"
+        android:layout_gravity="center"
+        android:textColor="#f0080808"
+        android:textSize="15dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Phone Number"
+        android:layout_gravity="center"
+        android:textColor="#ef0909"
+        android:textSize="20dp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter valid Phone number to contact"
+        android:layout_gravity="center"
+        android:textColor="#f0080808"
+        android:textSize="15dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-----------------------------------------------"
+        android:layout_gravity="center"
+        android:textColor="#f0080808"
+        android:textSize="15dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="---Select Expecting Date---"
+        android:layout_gravity="center"
+        android:textColor="#ef0909"
+        android:textSize="20dp"
+        android:textStyle="italic"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="select Expecting day the blood you need"
+        android:layout_gravity="center"
+        android:textColor="#f0080808"
+        android:textSize="15dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="-----------------------------------------------"
+        android:layout_gravity="center"
+        android:textColor="#f0080808"
+        android:textSize="15dp"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="***Blood Requests details automatically deletes after Two Days"
+        android:layout_gravity="center"
+        android:textColor="#ea0f2cd1"
+        android:textSize="15dp"
+        />
+
+</LinearLayout>
