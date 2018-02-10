@@ -117,7 +117,7 @@ public class MainActivity extends AppCompatActivity {
         int res_id = item.getItemId();
         if (res_id==R.id.action_about)
         {
-            Toast.makeText(this, "Knock me: aujisti.ador@gmail.com", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "Knock us: aujisti.ador@gmail.com", Toast.LENGTH_LONG).show();
         }
         else if (res_id==R.id.action_abt_blood)
         {
@@ -253,7 +253,7 @@ public class MainActivity extends AppCompatActivity {
                         {
                             //private static final String URL_DATA = "http://fazlerabbiador.000webhostapp.com/medex/getAllEmp.php";
                             //final String URL_DATA = "http://192.168.0.103/PHP_Practice/medex/addBloodRequ.php";
-                            final String URL_DATA = "https://fazlerabbiador.000webhostapp.com/medex/addBloodRequ.php";
+                            final String URL_DATA = "http://www.momoz.shop/medex/addBloodRequ.php";
 
 
 

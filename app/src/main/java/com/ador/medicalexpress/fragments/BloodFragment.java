@@ -31,7 +31,8 @@ import java.util.ArrayList;
  */
 public class BloodFragment extends Fragment {
 
-    private static final String URL_DATA = "https://fazlerabbiador.000webhostapp.com/medex/getBloodRequ.php";
+    private static final String URL_DATA = "http://www.momoz.shop/medex/getBloodRequ.php";
+    //private static final String URL_DATA = "https://fazlerabbiador.000webhostapp.com/medex/getBloodRequ.php";
     //private static final String URL_DATA = "http://192.168.0.103/PHP_Practice/medex/getBloodRequ.php";
     //ListView listView;
     //List<BloodRequestClass> listItems;
